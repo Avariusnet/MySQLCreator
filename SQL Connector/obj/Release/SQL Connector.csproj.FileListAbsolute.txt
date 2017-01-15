@@ -1,0 +1,23 @@
+C:\Users\Raphael\Documents\Visual Studio 2015\Projects\SQL Connector\SQL Connector\bin\Release\SQL Connector.exe.config
+C:\Users\Raphael\Documents\Visual Studio 2015\Projects\SQL Connector\SQL Connector\bin\Release\SQL Connector.exe
+C:\Users\Raphael\Documents\Visual Studio 2015\Projects\SQL Connector\SQL Connector\bin\Release\SQL Connector.pdb
+C:\Users\Raphael\Documents\Visual Studio 2015\Projects\SQL Connector\SQL Connector\bin\Release\EntityFramework.dll
+C:\Users\Raphael\Documents\Visual Studio 2015\Projects\SQL Connector\SQL Connector\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Raphael\Documents\Visual Studio 2015\Projects\SQL Connector\SQL Connector\bin\Release\MySql.Data.dll
+C:\Users\Raphael\Documents\Visual Studio 2015\Projects\SQL Connector\SQL Connector\bin\Release\MySql.Data.Entity.EF6.dll
+C:\Users\Raphael\Documents\Visual Studio 2015\Projects\SQL Connector\SQL Connector\bin\Release\MySql.Web.dll
+C:\Users\Raphael\Documents\Visual Studio 2015\Projects\SQL Connector\SQL Connector\bin\Release\EntityFramework.xml
+C:\Users\Raphael\Documents\Visual Studio 2015\Projects\SQL Connector\SQL Connector\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Raphael\Documents\Visual Studio 2015\Projects\SQL Connector\SQL Connector\obj\Release\MainWindow.g.cs
+C:\Users\Raphael\Documents\Visual Studio 2015\Projects\SQL Connector\SQL Connector\obj\Release\App.g.cs
+C:\Users\Raphael\Documents\Visual Studio 2015\Projects\SQL Connector\SQL Connector\obj\Release\SQL Connector_MarkupCompile.cache
+C:\Users\Raphael\Documents\Visual Studio 2015\Projects\SQL Connector\SQL Connector\obj\Release\SQL Connector_MarkupCompile.lref
+C:\Users\Raphael\Documents\Visual Studio 2015\Projects\SQL Connector\SQL Connector\obj\Release\MainWindow.baml
+C:\Users\Raphael\Documents\Visual Studio 2015\Projects\SQL Connector\SQL Connector\obj\Release\SQL Connector.g.resources
+C:\Users\Raphael\Documents\Visual Studio 2015\Projects\SQL Connector\SQL Connector\obj\Release\SQL_Connector.Properties.Resources.resources
+C:\Users\Raphael\Documents\Visual Studio 2015\Projects\SQL Connector\SQL Connector\obj\Release\SQL Connector.csproj.GenerateResource.Cache
+C:\Users\Raphael\Documents\Visual Studio 2015\Projects\SQL Connector\SQL Connector\obj\Release\SQL Connector.exe
+C:\Users\Raphael\Documents\Visual Studio 2015\Projects\SQL Connector\SQL Connector\obj\Release\SQL Connector.pdb
+C:\Users\Raphael\Documents\Visual Studio 2015\Projects\SQL Connector\SQL Connector\obj\Release\SQL Connector.csprojResolveAssemblyReference.cache
+C:\Users\Raphael\Documents\Visual Studio 2015\Projects\SQL Connector\SQL Connector\obj\Release\Settingspage.g.cs
+C:\Users\Raphael\Documents\Visual Studio 2015\Projects\SQL Connector\SQL Connector\obj\Release\Settingspage.baml

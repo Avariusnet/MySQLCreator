@@ -1,0 +1,854 @@
+31.07.2016 10:17:25 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 10:17:30 Schema Informationen wurden heruntergeladen.
+31.07.2016 10:21:52 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 10:21:55 Schema Informationen wurden heruntergeladen.
+31.07.2016 10:24:28 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 10:24:32 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 10:24:38 Schema Informationen wurden heruntergeladen.
+31.07.2016 10:28:49 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 10:28:53 Schema Informationen wurden heruntergeladen.
+31.07.2016 10:30:41 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 10:30:45 Schema Informationen wurden heruntergeladen.
+31.07.2016 10:34:39 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 10:34:43 Schema Informationen wurden heruntergeladen.
+31.07.2016 10:34:47 Query wurde erfolgreich abgeschlossen. Select * from creature where guid = 800044;
+31.07.2016 10:34:57 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 10:35:01 Schema Informationen wurden heruntergeladen.
+31.07.2016 10:36:43 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 10:36:53 Schema Informationen wurden heruntergeladen.
+31.07.2016 10:37:00 Der Index war außerhalb des Arraybereichs.
+31.07.2016 10:37:02 Query wurde erfolgreich abgeschlossen. Select * from creature where guid = 800044;
+31.07.2016 10:38:03 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 10:38:07 Schema Informationen wurden heruntergeladen.
+31.07.2016 10:38:26 Der Index war außerhalb des Arraybereichs.
+31.07.2016 10:38:33 Query wurde erfolgreich abgeschlossen. Select * from creature where guid = 800044;
+31.07.2016 10:39:07 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 10:39:11 Schema Informationen wurden heruntergeladen.
+31.07.2016 10:40:01 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 10:40:05 Schema Informationen wurden heruntergeladen.
+31.07.2016 10:40:44 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 10:40:48 Schema Informationen wurden heruntergeladen.
+31.07.2016 10:47:29 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 10:47:33 Schema Informationen wurden heruntergeladen.
+31.07.2016 10:49:59 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 10:50:04 Schema Informationen wurden heruntergeladen.
+31.07.2016 10:51:05 Query wurde erfolgreich abgeschlossen. Select * from creature where guid = 800044;
+31.07.2016 10:51:36 SQL-Datei Filename.sql wurde erfolgreich erstellt.
+31.07.2016 10:52:06 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 10:52:10 Schema Informationen wurden heruntergeladen.
+31.07.2016 10:52:13 Query wurde erfolgreich abgeschlossen. Select * from creature where guid = 800044;
+31.07.2016 10:52:19 SQL-Datei teter.sql wurde erfolgreich erstellt.
+31.07.2016 10:52:33 SQL-Datei teter.sql wurde erfolgreich erstellt.
+31.07.2016 10:55:23 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 10:55:25 Verbindung konnte nicht erfolgreich hergestellt werden.
+31.07.2016 10:55:25 Server mit der IP: 127.0.0dasda nicht erreichbar.
+31.07.2016 10:55:28 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 10:55:32 Schema Informationen wurden heruntergeladen.
+31.07.2016 10:55:40 Query wurde erfolgreich abgeschlossen. Select * from creature where guid = 800044;
+31.07.2016 10:56:46 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 10:56:50 Schema Informationen wurden heruntergeladen.
+31.07.2016 10:56:53 Query wurde erfolgreich abgeschlossen. Select * from creature where guid = 800044;
+31.07.2016 10:57:08 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 10:57:12 Schema Informationen wurden heruntergeladen.
+31.07.2016 10:58:40 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 10:58:44 Schema Informationen wurden heruntergeladen.
+31.07.2016 10:58:48 Query wurde erfolgreich abgeschlossen. Select * from creature where guid = 800044;
+31.07.2016 10:58:53 SQL-Datei Filename1.sql wurde erfolgreich erstellt.
+31.07.2016 11:01:04 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 11:01:10 Schema Informationen wurden heruntergeladen.
+31.07.2016 11:01:17 Query wurde erfolgreich abgeschlossen. Select * from creature where guid = 800044;
+31.07.2016 11:01:20 SQL-Datei Filename.sql wurde erfolgreich erstellt.
+31.07.2016 11:03:09 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 11:03:14 Schema Informationen wurden heruntergeladen.
+31.07.2016 11:03:17 Query wurde erfolgreich abgeschlossen. Select * from creature where guid = 800044;
+31.07.2016 11:03:46 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 11:03:58 Schema Informationen wurden heruntergeladen.
+31.07.2016 11:04:00 Query wurde erfolgreich abgeschlossen. Select * from creature where guid = 800044;
+31.07.2016 11:04:04 SQL-Datei Filename.sql wurde erfolgreich erstellt.
+31.07.2016 11:06:36 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 11:06:42 Schema Informationen wurden heruntergeladen.
+31.07.2016 11:06:58 Query wurde erfolgreich abgeschlossen. Select * from creature_template where entry = 800044;
+31.07.2016 11:07:09 SQL-Datei Hochlord.sql wurde erfolgreich erstellt.
+31.07.2016 11:19:25 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 11:19:30 Schema Informationen wurden heruntergeladen.
+31.07.2016 11:19:53 Query wurde erfolgreich abgeschlossen. Select * from creature_template where entry = 800044;
+31.07.2016 11:25:21 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 11:25:29 Schema Informationen wurden heruntergeladen.
+31.07.2016 11:25:44 Query wurde erfolgreich abgeschlossen. Select * from creature_template where entry = 800044;
+31.07.2016 11:40:29 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 11:40:34 Schema Informationen wurden heruntergeladen.
+31.07.2016 11:40:54 Query wurde erfolgreich abgeschlossen. Select * from creature_template where entry = 800044;
+31.07.2016 11:46:37 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 11:46:41 Schema Informationen wurden heruntergeladen.
+31.07.2016 11:46:57 Query wurde erfolgreich abgeschlossen. Select * from creature_template where entry = 800044;
+31.07.2016 11:47:38 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 11:47:42 Schema Informationen wurden heruntergeladen.
+31.07.2016 11:47:49 No database selected
+31.07.2016 11:47:49 Query wurde erfolgreich abgeschlossen. Select * from creature_template where entry = 800044;
+31.07.2016 11:47:54 Query wurde erfolgreich abgeschlossen. Select * from creature_template where entry = 800044;
+31.07.2016 11:48:58 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 11:49:03 Schema Informationen wurden heruntergeladen.
+31.07.2016 11:51:29 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 11:51:33 Schema Informationen wurden heruntergeladen.
+31.07.2016 11:51:38 Query wurde erfolgreich abgeschlossen. Select * from creature_template where entry = 800044;
+31.07.2016 11:53:41 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 11:53:46 Schema Informationen wurden heruntergeladen.
+31.07.2016 11:53:49 Query wurde erfolgreich abgeschlossen. Select * from creature_template where entry = 800044;
+31.07.2016 11:55:07 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 11:55:08 Schema Informationen wurden heruntergeladen.
+31.07.2016 11:55:10 Query wurde erfolgreich abgeschlossen. Select * from creature_template where entry = 800044;
+31.07.2016 11:57:24 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 11:57:25 Schema Informationen wurden heruntergeladen.
+31.07.2016 11:57:28 Query wurde erfolgreich abgeschlossen. Select * from creature_template where entry = 800044;
+31.07.2016 11:58:09 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 11:58:10 Schema Informationen wurden heruntergeladen.
+31.07.2016 11:58:12 Query wurde erfolgreich abgeschlossen. Select * from creature_template where entry = 800044;
+31.07.2016 11:58:35 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 11:58:36 Schema Informationen wurden heruntergeladen.
+31.07.2016 11:58:38 Query wurde erfolgreich abgeschlossen. Select * from creature_template where entry = 800044;
+31.07.2016 11:58:40 SQL-Datei create.sql wurde erfolgreich erstellt.
+31.07.2016 11:59:51 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 11:59:52 Schema Informationen wurden heruntergeladen.
+31.07.2016 11:59:54 Query wurde erfolgreich abgeschlossen. Select * from creature_template where entry = 800044;
+31.07.2016 11:59:57 SQL-Datei Filename.sql wurde erfolgreich erstellt.
+31.07.2016 12:02:02 Schema Informationen wurden heruntergeladen.
+31.07.2016 12:02:02 Schema Informationen wurden heruntergeladen.
+31.07.2016 12:02:36 Table 'firstrealm_world.access_requierement' doesn't exist
+31.07.2016 12:02:36 Query wurde erfolgreich abgeschlossen. Select * from access_requierement where map_id = 33;
+31.07.2016 12:02:43 Unknown column 'map_id' in 'where clause'
+31.07.2016 12:02:43 Query wurde erfolgreich abgeschlossen. Select * from access_requirement where map_id = 33;
+31.07.2016 12:02:59 Query wurde erfolgreich abgeschlossen. Select * from access_requirement where mapid = 33;
+31.07.2016 12:03:05 SQL-Datei map.sql wurde erfolgreich erstellt.
+31.07.2016 12:04:06 Schema Informationen wurden heruntergeladen.
+31.07.2016 12:04:12 Query wurde erfolgreich abgeschlossen. Select * from creature_template where entry = 800044;
+31.07.2016 12:04:36 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'fromaccess_requirement where mapid= 33' at line 1
+31.07.2016 12:04:36 Query wurde erfolgreich abgeschlossen. Select * fromaccess_requirement where mapid= 33;
+31.07.2016 12:04:40 Query wurde erfolgreich abgeschlossen. Select * from access_requirement where mapid= 33;
+31.07.2016 12:08:11 Schema Informationen wurden heruntergeladen.
+31.07.2016 12:08:34 Query wurde erfolgreich abgeschlossen. Select * from access_requirement where mapid = 33;
+31.07.2016 12:08:56 Schema Informationen wurden heruntergeladen.
+31.07.2016 12:11:43 Schema Informationen wurden heruntergeladen.
+31.07.2016 12:11:49 Query wurde erfolgreich abgeschlossen. Select * from access_requirement where mapid = 33;
+31.07.2016 12:11:59 Schema Informationen wurden heruntergeladen.
+31.07.2016 12:12:02 Query wurde erfolgreich abgeschlossen. Select * from access_requirement where mapid = 33;
+31.07.2016 12:12:10 Schema Informationen wurden heruntergeladen.
+31.07.2016 12:12:13 Query wurde erfolgreich abgeschlossen. Select * from access_requirement where mapid = 33;
+31.07.2016 12:12:14 SQL-Datei Filename.sql wurde erfolgreich erstellt.
+31.07.2016 12:17:44 Schema Informationen wurden heruntergeladen.
+31.07.2016 12:17:46 Query wurde erfolgreich abgeschlossen. Select * from creature_template where entry = 800044;
+31.07.2016 12:32:38 Schema Informationen wurden heruntergeladen.
+31.07.2016 12:32:46 Query wurde erfolgreich abgeschlossen. Select * from access_requirement where mapid = 33;
+31.07.2016 12:32:55 SQL-Datei Filename.sql wurde erfolgreich erstellt.
+31.07.2016 12:35:14 Schema Informationen wurden heruntergeladen.
+31.07.2016 12:35:14 Schema Informationen wurden heruntergeladen.
+31.07.2016 12:35:34 Query wurde erfolgreich abgeschlossen. SELECT * FROM areatrigger_scripts where entry = 4500;
+31.07.2016 12:35:41 Query wurde erfolgreich abgeschlossen. SELECT * FROM areatrigger_scripts where entry = 4500;
+31.07.2016 12:35:41 Query wurde erfolgreich abgeschlossen. SELECT * FROM areatrigger_scripts where entry = 4500;
+31.07.2016 12:35:42 Schema Informationen wurden heruntergeladen.
+31.07.2016 12:35:49 Query wurde erfolgreich abgeschlossen. SELECT * FROM areatrigger_scripts where entry = 4500;
+31.07.2016 12:35:57 Query wurde erfolgreich abgeschlossen. SELECT * FROM areatrigger_scripts where entry = 4560;
+31.07.2016 12:36:00 SQL-Datei Filename223.sql wurde erfolgreich erstellt.
+31.07.2016 12:36:53 Schema Informationen wurden heruntergeladen.
+31.07.2016 12:37:24 Query wurde erfolgreich abgeschlossen. SELECT * FROM areatrigger_scripts where entry = 4560;
+31.07.2016 12:37:37 Query wurde erfolgreich abgeschlossen. SELECT * from areatrigger_scripts where entry = 4560;
+31.07.2016 12:37:40 SQL-Datei Filename2223.sql wurde erfolgreich erstellt.
+31.07.2016 12:45:32 Schema Informationen wurden heruntergeladen.
+31.07.2016 12:45:32 Schema Informationen wurden heruntergeladen.
+31.07.2016 12:45:34 Schema Informationen wurden heruntergeladen.
+31.07.2016 12:45:34 Schema Informationen wurden heruntergeladen.
+31.07.2016 12:45:35 Schema Informationen wurden heruntergeladen.
+31.07.2016 12:45:35 Schema Informationen wurden heruntergeladen.
+31.07.2016 12:45:35 Schema Informationen wurden heruntergeladen.
+31.07.2016 12:47:14 Schema Informationen wurden heruntergeladen.
+31.07.2016 12:47:18 Query wurde erfolgreich abgeschlossen. Select * from creature_template where entry = 800044;
+31.07.2016 12:56:24 Schema Informationen wurden heruntergeladen.
+31.07.2016 12:56:30 Query wurde erfolgreich abgeschlossen. Select * from creature_template where entry = 800044;
+31.07.2016 12:56:36 SQL-Datei Filename.sql wurde erfolgreich erstellt.
+31.07.2016 12:56:52 SQL-Datei Filename.sql wurde erfolgreich erstellt.
+31.07.2016 13:46:46 Update failed!
+31.07.2016 13:47:22 Update failed!
+31.07.2016 13:47:22 Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+31.07.2016 13:49:45 Update erfolgreich abgeschlossen!
+31.07.2016 13:51:56 Update erfolgreich abgeschlossen!
+31.07.2016 13:52:23 Update erfolgreich abgeschlossen!
+31.07.2016 13:56:40 Update failed!
+31.07.2016 13:56:40 Die Eingabezeichenfolge hat das falsche Format.
+31.07.2016 13:57:59 Update erfolgreich abgeschlossen!
+31.07.2016 14:00:34 Update erfolgreich abgeschlossen!
+31.07.2016 14:08:48 Update erfolgreich abgeschlossen!
+31.07.2016 14:10:02 Update erfolgreich abgeschlossen!
+31.07.2016 14:12:49 Update erfolgreich abgeschlossen!
+31.07.2016 14:13:26 Update verfügbar.
+31.07.2016 14:13:26 Update erfolgreich abgeschlossen!
+31.07.2016 14:13:32 Update verfügbar.
+31.07.2016 14:13:32 Update erfolgreich abgeschlossen!
+31.07.2016 14:14:02 Update verfügbar.
+31.07.2016 14:14:02 Update erfolgreich abgeschlossen!
+31.07.2016 14:14:15 Update verfügbar.
+31.07.2016 14:14:15 Update erfolgreich abgeschlossen!
+31.07.2016 14:14:21 Update verfügbar.
+31.07.2016 14:14:21 Update erfolgreich abgeschlossen!
+31.07.2016 14:14:30 Update verfügbar.
+31.07.2016 14:14:30 Update erfolgreich abgeschlossen!
+31.07.2016 14:52:29 Update erfolgreich abgeschlossen!
+31.07.2016 14:54:36 Update erfolgreich abgeschlossen!
+31.07.2016 14:55:04 Update erfolgreich abgeschlossen!
+31.07.2016 15:11:13 Update erfolgreich abgeschlossen!
+31.07.2016 15:23:40 Update erfolgreich abgeschlossen!
+31.07.2016 15:25:02 Update erfolgreich abgeschlossen!
+31.07.2016 15:25:30 Update erfolgreich abgeschlossen!
+31.07.2016 15:31:36 Update erfolgreich abgeschlossen!
+31.07.2016 15:31:42 Update erfolgreich abgeschlossen!
+31.07.2016 15:32:41 Update erfolgreich abgeschlossen!
+31.07.2016 15:33:37 Update erfolgreich abgeschlossen!
+31.07.2016 15:34:16 Update erfolgreich abgeschlossen!
+31.07.2016 15:39:18 Kein Update benötigt.
+31.07.2016 15:39:26 Update available
+31.07.2016 15:39:26 Update failed!
+31.07.2016 15:39:26 Der Remoteserver hat einen Fehler zurückgegeben: (404) Nicht gefunden.
+31.07.2016 15:41:14 Update available
+31.07.2016 15:49:46 Update available
+31.07.2016 15:51:02 Kein Update benötigt.
+31.07.2016 15:51:05 Schema Informationen wurden heruntergeladen.
+31.07.2016 15:51:26 Table 'sys.creature_template' doesn't exist
+31.07.2016 15:51:26 Query wurde erfolgreich abgeschlossen. Select * from creature_template where entry = 800044;
+31.07.2016 15:52:30 Kein Update benötigt.
+31.07.2016 15:52:32 Schema Informationen wurden heruntergeladen.
+31.07.2016 15:52:34 Table 'characters.creature_template' doesn't exist
+31.07.2016 15:52:34 Query wurde erfolgreich abgeschlossen. Select * from creature_template where entry = 800044;
+31.07.2016 15:54:43 Kein Update benötigt.
+31.07.2016 15:56:36 Kein Update benötigt.
+31.07.2016 15:58:39 Kein Update benötigt.
+31.07.2016 16:09:50 Kein Update benötigt.
+31.07.2016 16:10:02 Schema Informationen wurden heruntergeladen.
+31.07.2016 16:10:05 Query wurde erfolgreich abgeschlossen. Select * from creature_template where entry = 800044;
+31.07.2016 16:53:11 Kein Update benötigt.
+31.07.2016 16:54:25 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 16:54:32 Schema Informationen wurden heruntergeladen.
+31.07.2016 17:47:33 Kein Update benötigt.
+31.07.2016 17:50:28 Kein Update benötigt.
+31.07.2016 17:50:54 Kein Update benötigt.
+31.07.2016 17:51:06 Kein Update benötigt.
+31.07.2016 17:51:45 Kein Update benötigt.
+31.07.2016 17:51:56 Kein Update benötigt.
+31.07.2016 17:52:07 Kein Update benötigt.
+31.07.2016 18:23:30 Kein Update benötigt.
+31.07.2016 18:23:36 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 18:23:43 Schema Informationen wurden heruntergeladen.
+31.07.2016 18:24:58 Kein Update benötigt.
+31.07.2016 18:25:40 Kein Update benötigt.
+31.07.2016 18:31:39 Kein Update benötigt.
+31.07.2016 20:20:53 Kein Update benötigt.
+31.07.2016 20:20:58 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 20:21:06 Schema Informationen wurden heruntergeladen.
+31.07.2016 20:21:23 Query wurde erfolgreich abgeschlossen. Select * from creature where guid = 800044;
+31.07.2016 20:27:10 Kein Update benötigt.
+31.07.2016 20:27:14 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 20:27:22 Schema Informationen wurden heruntergeladen.
+31.07.2016 20:27:36 Query wurde erfolgreich abgeschlossen. Select * from creature where guid = 800044;
+31.07.2016 20:28:00 Kein Update benötigt.
+31.07.2016 20:28:07 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 20:28:08 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 20:28:08 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 20:28:15 Schema Informationen wurden heruntergeladen.
+31.07.2016 20:28:19 Query wurde erfolgreich abgeschlossen. Select * from creature where guid = 800044;
+31.07.2016 20:29:05 Kein Update benötigt.
+31.07.2016 20:29:15 Kein Update benötigt.
+31.07.2016 20:29:17 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 20:29:22 Schema Informationen wurden heruntergeladen.
+31.07.2016 20:30:02 Kein Update benötigt.
+31.07.2016 20:30:05 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 20:30:10 Schema Informationen wurden heruntergeladen.
+31.07.2016 20:30:37 Query wurde erfolgreich abgeschlossen. Select * from creature where guid = 800044;
+31.07.2016 20:31:13 Kein Update benötigt.
+31.07.2016 20:31:15 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 20:31:20 Schema Informationen wurden heruntergeladen.
+31.07.2016 20:32:05 Kein Update benötigt.
+31.07.2016 20:32:07 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 20:32:12 Schema Informationen wurden heruntergeladen.
+31.07.2016 20:52:09 Kein Update benötigt.
+31.07.2016 20:52:16 Kein Update benötigt.
+31.07.2016 20:53:31 Kein Update benötigt.
+31.07.2016 20:53:56 Kein Update benötigt.
+31.07.2016 21:31:28 Kein Update benötigt.
+31.07.2016 21:31:39 Kein Update benötigt.
+31.07.2016 21:32:36 Kein Update benötigt.
+31.07.2016 21:34:35 Kein Update benötigt.
+01.08.2016 11:40:33 Update failed!
+01.08.2016 11:40:33 Die Verbindung mit dem Remoteserver kann nicht hergestellt werden.
+01.08.2016 11:40:35 Update erfolgreich abgeschlossen
+01.08.2016 11:40:42 Update failed!
+01.08.2016 11:40:42 Die Verbindung mit dem Remoteserver kann nicht hergestellt werden.
+01.08.2016 11:40:44 Update erfolgreich abgeschlossen
+01.08.2016 11:42:15 Kein Update benötigt.
+01.08.2016 11:43:25 Kein Update benötigt.
+01.08.2016 11:45:20 Kein Update benötigt.
+01.08.2016 11:52:25 Update failed!
+01.08.2016 11:52:25 Die Verbindung mit dem Remoteserver kann nicht hergestellt werden.
+01.08.2016 11:52:29 Update erfolgreich abgeschlossen
+01.08.2016 11:54:36 Update failed!
+01.08.2016 11:54:36 Die Verbindung mit dem Remoteserver kann nicht hergestellt werden.
+01.08.2016 12:02:34 Update failed!
+01.08.2016 12:02:34 Die Verbindung mit dem Remoteserver kann nicht hergestellt werden.
+01.08.2016 12:02:42 Updateserver konnte nicht erreicht werden.
+01.08.2016 12:02:49 Updateserver konnte nicht erreicht werden.
+01.08.2016 12:03:13 Updateserver konnte nicht erreicht werden.
+01.08.2016 12:04:20 Kein Update benötigt.
+01.08.2016 12:04:50 Update available
+01.08.2016 12:05:07 Update available
+01.08.2016 12:18:32 Update available
+01.08.2016 12:18:38 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 12:18:42 Schema Informationen wurden heruntergeladen.
+01.08.2016 12:18:54 Query wurde erfolgreich abgeschlossen. Select * from creature where guid = 800044;
+01.08.2016 12:19:28 Update available
+01.08.2016 12:19:32 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 12:19:39 Schema Informationen wurden heruntergeladen.
+01.08.2016 12:19:51 Query wurde erfolgreich abgeschlossen. Select * from creature where guid = 800044;
+01.08.2016 12:20:34 Update available
+01.08.2016 12:20:37 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 12:20:44 Schema Informationen wurden heruntergeladen.
+01.08.2016 12:20:46 Query wurde erfolgreich abgeschlossen. Select * from creature where guid = 800044;
+01.08.2016 12:20:50 SQL-Datei newtest.sql wurde erfolgreich erstellt.
+01.08.2016 12:34:00 Update available
+01.08.2016 12:34:16 Kein Update benötigt.
+01.08.2016 12:36:42 Kein Update benötigt.
+01.08.2016 12:38:37 Kein Update benötigt.
+01.08.2016 12:51:18 Kein Update benötigt.
+01.08.2016 12:51:20 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 12:51:49 Schema Informationen wurden heruntergeladen.
+01.08.2016 12:52:03 Query wurde erfolgreich abgeschlossen. Select * from creature where guid = 800044;
+01.08.2016 12:52:10 SQL-Datei Filenameeeee.sql wurde erfolgreich erstellt.
+01.08.2016 12:52:27 Unknown column 'guid' in 'where clause'
+01.08.2016 12:52:27 Unknown column 'guid' in 'where clause'
+01.08.2016 12:52:27 SQL-Datei Filenameeeee.sql wurde erfolgreich erstellt.
+01.08.2016 12:52:36 Query wurde erfolgreich abgeschlossen. Select * from creature_template where entry= 800044;
+01.08.2016 12:52:38 SQL-Datei Filenameeeee.sql wurde erfolgreich erstellt.
+01.08.2016 12:55:06 Schema Informationen wurden heruntergeladen.
+01.08.2016 12:55:15 Unknown column 'guid' in 'where clause'
+01.08.2016 12:55:15 Query wurde erfolgreich abgeschlossen. Select * from creature_template where guid = 800044;
+01.08.2016 12:57:49 Schema Informationen wurden heruntergeladen.
+01.08.2016 12:57:56 Unknown column 'guid' in 'where clause'
+01.08.2016 12:57:56 Query wurde erfolgreich abgeschlossen. Select * from creature_template where guid = 800044;
+01.08.2016 12:58:03 Query wurde erfolgreich abgeschlossen. Select * from creature_template where entry = 800044;
+01.08.2016 12:58:40 Schema Informationen wurden heruntergeladen.
+01.08.2016 12:58:48 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':template where guid = 800044' at line 1
+01.08.2016 12:58:48 Query wurde erfolgreich abgeschlossen. Select * from creature:template where guid = 800044;
+01.08.2016 12:58:57 Query wurde erfolgreich abgeschlossen. Select * from creature where guid = 800044;
+01.08.2016 12:58:59 Query wurde erfolgreich abgeschlossen. Select * from creature where guid = 800044;
+01.08.2016 12:59:07 Query wurde erfolgreich abgeschlossen. Select * from creature_template where entry= 800044;
+01.08.2016 12:59:45 Schema Informationen wurden heruntergeladen.
+01.08.2016 12:59:48 Query wurde erfolgreich abgeschlossen. Select * from creature where guid = 800044;
+01.08.2016 13:15:36 Schema Informationen wurden heruntergeladen.
+01.08.2016 13:18:17 Schema Informationen wurden heruntergeladen.
+01.08.2016 13:23:16 Schema Informationen wurden heruntergeladen.
+01.08.2016 13:23:19 Error beim abfragen der Tables
+01.08.2016 13:23:27 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 13:23:31 Error beim abfragen der Tables
+01.08.2016 13:23:33 Error beim abfragen der Tables
+01.08.2016 13:25:03 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 13:25:05 Schema Informationen wurden heruntergeladen.
+01.08.2016 13:25:06 Error beim abfragen der Tables
+01.08.2016 13:25:10 Error beim abfragen der Tables
+01.08.2016 13:25:13 Error beim abfragen der Tables
+01.08.2016 13:26:32 Schema Informationen wurden heruntergeladen.
+01.08.2016 13:26:34 Error beim abfragen der Tables
+01.08.2016 13:26:43 Error beim abfragen der Tables
+01.08.2016 13:26:45 Error beim abfragen der Tables
+01.08.2016 13:26:47 Error beim abfragen der Tables
+01.08.2016 13:26:49 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 13:26:52 Error beim abfragen der Tables
+01.08.2016 13:27:26 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 13:27:27 Schema Informationen wurden heruntergeladen.
+01.08.2016 13:28:06 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 13:28:07 Schema Informationen wurden heruntergeladen.
+01.08.2016 13:28:09 Error beim abfragen der Tables
+01.08.2016 13:28:19 Error beim abfragen der Tables
+01.08.2016 13:28:21 Error beim abfragen der Tables
+01.08.2016 13:28:31 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 13:28:32 Schema Informationen wurden heruntergeladen.
+01.08.2016 13:34:50 Schema Informationen wurden heruntergeladen.
+01.08.2016 13:34:52 Error beim abfragen der Tables
+01.08.2016 13:35:09 Schema Informationen wurden heruntergeladen.
+01.08.2016 13:36:28 Schema Informationen wurden heruntergeladen.
+01.08.2016 13:37:27 Schema Informationen wurden heruntergeladen.
+01.08.2016 13:37:29 Tables wurden abgefragt.
+01.08.2016 13:37:33 Tables wurden abgefragt.
+01.08.2016 13:37:40 Tables wurden abgefragt.
+01.08.2016 13:37:45 Tables wurden abgefragt.
+01.08.2016 13:37:50 Tables wurden abgefragt.
+01.08.2016 13:38:13 Tables wurden abgefragt.
+01.08.2016 13:38:21 Tables wurden abgefragt.
+01.08.2016 13:38:23 Tables wurden abgefragt.
+01.08.2016 13:38:30 Tables wurden abgefragt.
+01.08.2016 13:41:26 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 13:42:23 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 13:42:37 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 13:43:21 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 13:44:20 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 13:45:09 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 13:45:10 Schema Informationen wurden heruntergeladen.
+01.08.2016 13:45:17 Tables wurden abgefragt.
+01.08.2016 13:49:47 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 13:49:50 Schema Informationen wurden heruntergeladen.
+01.08.2016 13:49:52 Tables wurden abgefragt.
+01.08.2016 13:50:09 Query wurde erfolgreich abgeschlossen. Select * from creature where guid = 800044;
+01.08.2016 13:54:34 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 13:54:35 Schema Informationen wurden heruntergeladen.
+01.08.2016 13:54:36 Tables wurden abgefragt.
+01.08.2016 14:04:12 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 14:04:13 Schema Informationen wurden heruntergeladen.
+01.08.2016 14:04:15 Tables wurden abgefragt.
+01.08.2016 14:04:35 Authentication to host '127.0.0.1' for user 'root' using method 'mysql_native_password' failed with message: Unknown database 'select * from creature where guid = 800044'
+01.08.2016 14:05:59 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 14:06:00 Schema Informationen wurden heruntergeladen.
+01.08.2016 14:06:01 Tables wurden abgefragt.
+01.08.2016 14:06:16 Query wurde erfolgreich abgeschlossen. Select * from creature where guid = 800044;
+01.08.2016 14:07:20 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 14:07:22 Schema Informationen wurden heruntergeladen.
+01.08.2016 14:07:23 Tables wurden abgefragt.
+01.08.2016 14:07:25 Query wurde erfolgreich abgeschlossen. Select * from creature where guid = 800044;
+01.08.2016 14:07:29 SQL-Datei Filename2233.sql wurde erfolgreich erstellt.
+01.08.2016 14:19:04 Kein Update benötigt.
+01.08.2016 14:36:52 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 14:36:59 Schema Informationen wurden heruntergeladen.
+01.08.2016 14:37:03 Tables wurden abgefragt.
+01.08.2016 16:26:55 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 16:26:56 Schema Informationen wurden heruntergeladen.
+01.08.2016 16:26:58 Tables wurden abgefragt.
+01.08.2016 17:48:11 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 17:48:39 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 18:39:01 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 18:39:10 Schema Informationen wurden heruntergeladen.
+01.08.2016 18:39:28 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 18:39:40 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 18:39:42 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 18:40:09 Schema Informationen wurden heruntergeladen.
+01.08.2016 18:43:54 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 18:44:20 Schema Informationen wurden heruntergeladen.
+01.08.2016 19:00:46 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 19:00:50 Schema Informationen wurden heruntergeladen.
+01.08.2016 19:00:52 Tables wurden abgefragt.
+01.08.2016 19:50:52 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 19:50:54 Schema Informationen wurden heruntergeladen.
+01.08.2016 19:50:59 Tables wurden abgefragt.
+01.08.2016 19:51:04 Error in Columquery
+01.08.2016 19:52:09 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 19:52:10 Schema Informationen wurden heruntergeladen.
+01.08.2016 19:52:12 Tables wurden abgefragt.
+01.08.2016 19:52:16 Error in Columquery
+01.08.2016 19:57:21 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 19:57:22 Schema Informationen wurden heruntergeladen.
+01.08.2016 19:57:24 Tables wurden abgefragt.
+01.08.2016 19:58:16 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 19:58:17 Schema Informationen wurden heruntergeladen.
+01.08.2016 19:58:18 Tables wurden abgefragt.
+01.08.2016 19:59:10 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 19:59:11 Schema Informationen wurden heruntergeladen.
+01.08.2016 19:59:13 Tables wurden abgefragt.
+01.08.2016 20:01:54 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 20:01:55 Schema Informationen wurden heruntergeladen.
+01.08.2016 20:01:56 Tables wurden abgefragt.
+01.08.2016 20:05:51 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 20:05:52 Schema Informationen wurden heruntergeladen.
+01.08.2016 20:05:57 Tables wurden abgefragt.
+01.08.2016 20:06:06 The CommandText property has not been properly initialized.
+01.08.2016 20:06:06 The CommandText property has not been properly initialized.
+01.08.2016 20:06:06 Query wurde erfolgreich abgeschlossen. 
+01.08.2016 20:06:26 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 20:06:27 Schema Informationen wurden heruntergeladen.
+01.08.2016 20:06:29 Tables wurden abgefragt.
+01.08.2016 20:07:27 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 20:07:28 Schema Informationen wurden heruntergeladen.
+01.08.2016 20:07:30 Tables wurden abgefragt.
+01.08.2016 20:08:51 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 20:08:52 Schema Informationen wurden heruntergeladen.
+01.08.2016 20:08:54 Tables wurden abgefragt.
+01.08.2016 20:09:45 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'System.Windows.Controls.ComboBoxItem: Select * FROM creature where 800044' at line 1
+01.08.2016 20:09:45 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'System.Windows.Controls.ComboBoxItem: Select * FROM creature where 800044' at line 1
+01.08.2016 20:09:45 Query wurde erfolgreich abgeschlossen. System.Windows.Controls.ComboBoxItem: Select * FROM creature where 800044;
+01.08.2016 20:11:07 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 20:11:08 Schema Informationen wurden heruntergeladen.
+01.08.2016 20:11:09 Tables wurden abgefragt.
+01.08.2016 20:12:28 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 20:12:29 Schema Informationen wurden heruntergeladen.
+01.08.2016 20:12:33 Tables wurden abgefragt.
+01.08.2016 20:14:31 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 20:14:32 Schema Informationen wurden heruntergeladen.
+01.08.2016 20:14:34 Tables wurden abgefragt.
+01.08.2016 20:15:15 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 20:15:16 Schema Informationen wurden heruntergeladen.
+01.08.2016 20:15:19 Tables wurden abgefragt.
+01.08.2016 20:15:27 Der Index war außerhalb des Arraybereichs.
+01.08.2016 20:16:03 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 20:16:04 Schema Informationen wurden heruntergeladen.
+01.08.2016 20:16:07 Tables wurden abgefragt.
+01.08.2016 20:16:44 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 20:16:45 Schema Informationen wurden heruntergeladen.
+01.08.2016 20:16:48 Tables wurden abgefragt.
+01.08.2016 20:17:22 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 20:17:23 Schema Informationen wurden heruntergeladen.
+01.08.2016 20:17:25 Tables wurden abgefragt.
+01.08.2016 20:18:29 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 20:18:29 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 20:18:29 Schema Informationen wurden heruntergeladen.
+01.08.2016 20:18:33 Tables wurden abgefragt.
+01.08.2016 20:21:42 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 20:21:43 Schema Informationen wurden heruntergeladen.
+01.08.2016 20:21:46 Tables wurden abgefragt.
+01.08.2016 20:23:40 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'System.Windows.Controls.ComboBoxItem: Select * FROM creature where 800044' at line 1
+01.08.2016 20:23:40 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'System.Windows.Controls.ComboBoxItem: Select * FROM creature where 800044' at line 1
+01.08.2016 20:23:40 Query wurde erfolgreich abgeschlossen. System.Windows.Controls.ComboBoxItem: Select * FROM creature where 800044;
+01.08.2016 20:24:00 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 20:24:01 Schema Informationen wurden heruntergeladen.
+01.08.2016 20:24:10 Tables wurden abgefragt.
+01.08.2016 20:25:20 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'System.Windows.Controls.ComboBoxItem: Select * FROM creature where 800044' at line 1
+01.08.2016 20:25:20 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'System.Windows.Controls.ComboBoxItem: Select * FROM creature where 800044' at line 1
+01.08.2016 20:25:20 Query wurde erfolgreich abgeschlossen. System.Windows.Controls.ComboBoxItem: Select * FROM creature where 800044;
+01.08.2016 20:25:30 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 20:25:31 Schema Informationen wurden heruntergeladen.
+01.08.2016 20:25:34 Tables wurden abgefragt.
+01.08.2016 20:26:31 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 20:26:33 Schema Informationen wurden heruntergeladen.
+01.08.2016 20:26:36 Tables wurden abgefragt.
+01.08.2016 20:27:16 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 20:27:18 Schema Informationen wurden heruntergeladen.
+01.08.2016 20:27:28 Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+01.08.2016 20:27:32 Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+01.08.2016 20:27:35 Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+01.08.2016 20:27:35 Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+01.08.2016 20:29:01 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 20:29:04 Schema Informationen wurden heruntergeladen.
+01.08.2016 20:29:32 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 20:29:33 Schema Informationen wurden heruntergeladen.
+01.08.2016 20:30:28 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 20:30:29 Schema Informationen wurden heruntergeladen.
+01.08.2016 20:30:38 Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+01.08.2016 20:30:54 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 20:30:55 Schema Informationen wurden heruntergeladen.
+01.08.2016 20:32:16 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 20:32:18 Schema Informationen wurden heruntergeladen.
+01.08.2016 20:32:40 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 20:32:41 Schema Informationen wurden heruntergeladen.
+01.08.2016 20:32:43 Tables wurden abgefragt.
+01.08.2016 20:34:52 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 20:34:54 Schema Informationen wurden heruntergeladen.
+01.08.2016 20:34:56 Tables wurden abgefragt.
+01.08.2016 20:34:57 Query wurde erfolgreich abgeschlossen. Select * from creature where id = 800044;
+01.08.2016 20:35:09 Query wurde erfolgreich abgeschlossen. Select * from creature where guid= 800044;
+01.08.2016 20:35:57 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 20:35:58 Schema Informationen wurden heruntergeladen.
+01.08.2016 20:36:01 Tables wurden abgefragt.
+01.08.2016 20:37:19 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 20:37:20 Schema Informationen wurden heruntergeladen.
+01.08.2016 20:37:23 Tables wurden abgefragt.
+01.08.2016 20:37:45 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 20:37:46 Schema Informationen wurden heruntergeladen.
+01.08.2016 20:37:49 Tables wurden abgefragt.
+01.08.2016 20:38:01 Query wurde erfolgreich abgeschlossen. Select * FROM creature where guid = 800044;
+01.08.2016 20:38:24 Query wurde erfolgreich abgeschlossen. Select * FROM creature where guid = 800044;
+01.08.2016 20:38:25 Query wurde erfolgreich abgeschlossen. Select * FROM creature where guid = 800044;
+01.08.2016 20:38:31 Query wurde erfolgreich abgeschlossen. Select * FROM creature where guid = 800044;
+01.08.2016 20:38:42 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 20:38:43 Schema Informationen wurden heruntergeladen.
+01.08.2016 20:38:45 Tables wurden abgefragt.
+01.08.2016 20:39:13 Query wurde erfolgreich abgeschlossen. Select * FROM creature_template where name = "Illidan";
+01.08.2016 20:39:54 Unknown column 'Illidan' in 'where clause'
+01.08.2016 20:39:54 Query wurde erfolgreich abgeschlossen. Select * FROM creature_template where name = Illidan;
+01.08.2016 20:40:01 Query wurde erfolgreich abgeschlossen. Select * FROM creature_template where name = "Exitare";
+01.08.2016 20:40:22 Query wurde erfolgreich abgeschlossen. Select * FROM creature_template where name = "Exitare";
+01.08.2016 20:40:22 Query wurde erfolgreich abgeschlossen. Select * FROM creature_template where name = "Exitare";
+01.08.2016 20:40:34 Query wurde erfolgreich abgeschlossen. Select * FROM creature_template where name = "Moon";
+01.08.2016 20:45:18 Query wurde erfolgreich abgeschlossen. Select * FROM creature_template where name = "Moon";
+01.08.2016 20:45:19 Query wurde erfolgreich abgeschlossen. Select * FROM creature_template where name = "Moon";
+01.08.2016 20:45:20 Query wurde erfolgreich abgeschlossen. Select * FROM creature_template where name = "Moon";
+01.08.2016 20:45:23 Query wurde erfolgreich abgeschlossen. Select * FROM creature_template where name = "Tyranium";
+01.08.2016 20:48:25 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 20:48:27 Schema Informationen wurden heruntergeladen.
+01.08.2016 20:48:29 Tables wurden abgefragt.
+01.08.2016 20:48:46 Query wurde erfolgreich abgeschlossen. Select * FROM creature_template where name = "moon";
+01.08.2016 20:48:52 Query wurde erfolgreich abgeschlossen. Select * FROM creature_template where name = "Exitare";
+01.08.2016 20:54:25 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 20:54:27 Schema Informationen wurden heruntergeladen.
+01.08.2016 20:57:04 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 20:57:05 Schema Informationen wurden heruntergeladen.
+01.08.2016 20:57:07 Tables wurden abgefragt.
+01.08.2016 20:58:39 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 20:58:40 Schema Informationen wurden heruntergeladen.
+01.08.2016 20:58:42 Tables wurden abgefragt.
+01.08.2016 20:59:19 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 20:59:20 Schema Informationen wurden heruntergeladen.
+01.08.2016 20:59:24 Tables wurden abgefragt.
+01.08.2016 21:00:07 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 21:00:09 Schema Informationen wurden heruntergeladen.
+01.08.2016 21:00:10 Tables wurden abgefragt.
+01.08.2016 21:00:35 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 21:00:37 Schema Informationen wurden heruntergeladen.
+01.08.2016 21:00:38 Tables wurden abgefragt.
+01.08.2016 21:01:05 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 21:01:06 Schema Informationen wurden heruntergeladen.
+01.08.2016 21:01:09 Tables wurden abgefragt.
+01.08.2016 21:01:39 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 21:01:40 Schema Informationen wurden heruntergeladen.
+01.08.2016 21:01:42 Tables wurden abgefragt.
+01.08.2016 21:02:52 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 21:02:53 Schema Informationen wurden heruntergeladen.
+01.08.2016 21:02:57 Tables wurden abgefragt.
+01.08.2016 21:06:22 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 21:06:24 Schema Informationen wurden heruntergeladen.
+01.08.2016 21:06:25 Tables wurden abgefragt.
+01.08.2016 21:06:50 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 21:06:51 Schema Informationen wurden heruntergeladen.
+01.08.2016 21:06:52 Tables wurden abgefragt.
+01.08.2016 21:07:13 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 21:07:14 Schema Informationen wurden heruntergeladen.
+01.08.2016 21:07:15 Tables wurden abgefragt.
+01.08.2016 21:07:17 Tables wurden abgefragt.
+01.08.2016 21:07:39 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 21:07:40 Schema Informationen wurden heruntergeladen.
+01.08.2016 21:07:41 Tables wurden abgefragt.
+01.08.2016 21:08:03 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 21:08:04 Schema Informationen wurden heruntergeladen.
+01.08.2016 21:08:05 Tables wurden abgefragt.
+01.08.2016 21:08:42 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 21:08:43 Schema Informationen wurden heruntergeladen.
+01.08.2016 21:08:45 Tables wurden abgefragt.
+01.08.2016 21:08:47 Tables wurden abgefragt.
+01.08.2016 21:20:45 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 21:20:46 Schema Informationen wurden heruntergeladen.
+01.08.2016 21:20:49 Tables wurden abgefragt.
+01.08.2016 21:21:30 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 21:21:31 Schema Informationen wurden heruntergeladen.
+01.08.2016 21:21:32 Tables wurden abgefragt.
+01.08.2016 21:22:28 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 21:22:29 Schema Informationen wurden heruntergeladen.
+01.08.2016 21:22:31 Tables wurden abgefragt.
+01.08.2016 21:22:40 Schema Informationen wurden heruntergeladen.
+01.08.2016 22:05:28 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 22:05:29 Schema Informationen wurden heruntergeladen.
+01.08.2016 22:05:31 Tables wurden abgefragt.
+01.08.2016 22:06:03 Unknown column 'firstrealm_world' in 'where clause'
+01.08.2016 22:06:03 Unknown column 'firstrealm_world' in 'where clause'
+01.08.2016 22:06:03 Query wurde erfolgreich abgeschlossen. Select * FROM achievement_reward where entry = firstrealm_world;
+01.08.2016 22:06:11 Unknown column 'firstrealm_world' in 'where clause'
+01.08.2016 22:06:11 Unknown column 'firstrealm_world' in 'where clause'
+01.08.2016 22:06:11 Query wurde erfolgreich abgeschlossen. Select * FROM achievement_reward where entry = firstrealm_world;
+01.08.2016 22:06:16 Unknown column 'firstrealm_world' in 'where clause'
+01.08.2016 22:06:16 Unknown column 'firstrealm_world' in 'where clause'
+01.08.2016 22:06:16 Query wurde erfolgreich abgeschlossen. Select * FROM achievement_reward where entry = firstrealm_world;
+01.08.2016 22:06:16 Unknown column 'firstrealm_world' in 'where clause'
+01.08.2016 22:06:16 Unknown column 'firstrealm_world' in 'where clause'
+01.08.2016 22:06:16 Query wurde erfolgreich abgeschlossen. Select * FROM achievement_reward where entry = firstrealm_world;
+01.08.2016 22:06:29 Unknown column 'firstrealm_world' in 'where clause'
+01.08.2016 22:06:29 Unknown column 'firstrealm_world' in 'where clause'
+01.08.2016 22:06:29 Query wurde erfolgreich abgeschlossen. Select * FROM creature where guid = firstrealm_world;
+01.08.2016 22:08:50 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 22:08:52 Schema Informationen wurden heruntergeladen.
+01.08.2016 22:08:53 Tables wurden abgefragt.
+01.08.2016 22:09:01 Query wurde erfolgreich abgeschlossen. Select * FROM creature where guid = 800044;
+01.08.2016 22:10:31 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 22:10:32 Schema Informationen wurden heruntergeladen.
+01.08.2016 22:10:34 Tables wurden abgefragt.
+01.08.2016 22:10:42 Query wurde erfolgreich abgeschlossen. Select * FROM creature where guid = 800044;
+01.08.2016 22:12:50 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 22:12:52 Schema Informationen wurden heruntergeladen.
+01.08.2016 22:12:54 Tables wurden abgefragt.
+01.08.2016 22:14:00 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 22:14:02 Schema Informationen wurden heruntergeladen.
+01.08.2016 22:14:04 Tables wurden abgefragt.
+01.08.2016 22:14:15 Query wurde erfolgreich abgeschlossen. Select * FROM creature where guid = 800044;
+01.08.2016 22:14:23 Query wurde erfolgreich abgeschlossen. Select * FROM creature where guid = 800043;
+01.08.2016 23:43:41 Verbindung konnte erfolgreich geprüft werden.
+01.08.2016 23:43:42 Schema Informationen wurden heruntergeladen.
+01.08.2016 23:43:46 Tables wurden abgefragt.
+01.08.2016 23:43:59 Query wurde erfolgreich abgeschlossen. Select * FROM creature where guid = 800044;
+02.08.2016 16:14:46 Verbindung konnte erfolgreich geprüft werden.
+02.08.2016 16:14:47 Schema Informationen wurden heruntergeladen.
+02.08.2016 16:14:49 Tables wurden abgefragt.
+02.08.2016 16:14:57 Query wurde erfolgreich abgeschlossen. Select * FROM creature where guid = 800044;
+02.08.2016 16:16:00 Verbindung konnte erfolgreich geprüft werden.
+02.08.2016 16:16:01 Schema Informationen wurden heruntergeladen.
+02.08.2016 16:16:03 Tables wurden abgefragt.
+02.08.2016 16:16:13 Query wurde erfolgreich abgeschlossen. Select * FROM creature where guid = 800044;
+02.08.2016 16:16:19 Query wurde erfolgreich abgeschlossen. Select * FROM creature where guid = 800044;
+02.08.2016 16:16:27 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+02.08.2016 16:16:27 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+02.08.2016 16:16:27 Query wurde erfolgreich abgeschlossen. Select * FROM creature where guid = ;
+02.08.2016 16:16:38 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+02.08.2016 16:16:38 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+02.08.2016 16:16:38 Query wurde erfolgreich abgeschlossen. Select * FROM creature where guid = ;
+02.08.2016 16:17:07 Verbindung konnte erfolgreich geprüft werden.
+02.08.2016 16:17:08 Schema Informationen wurden heruntergeladen.
+02.08.2016 16:17:09 Tables wurden abgefragt.
+02.08.2016 16:17:22 Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+02.08.2016 16:17:22 Query wurde erfolgreich abgeschlossen. 
+02.08.2016 16:17:38 Verbindung konnte erfolgreich geprüft werden.
+02.08.2016 16:17:39 Schema Informationen wurden heruntergeladen.
+02.08.2016 16:18:18 Verbindung konnte erfolgreich geprüft werden.
+02.08.2016 16:18:19 Schema Informationen wurden heruntergeladen.
+02.08.2016 16:19:45 Verbindung konnte erfolgreich geprüft werden.
+02.08.2016 16:19:46 Schema Informationen wurden heruntergeladen.
+02.08.2016 16:19:59 Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+02.08.2016 16:19:59 Query wurde erfolgreich abgeschlossen. 
+02.08.2016 16:20:09 Verbindung konnte erfolgreich geprüft werden.
+02.08.2016 16:20:10 Schema Informationen wurden heruntergeladen.
+02.08.2016 16:21:24 Verbindung konnte erfolgreich geprüft werden.
+02.08.2016 16:21:26 Schema Informationen wurden heruntergeladen.
+02.08.2016 16:21:43 Verbindung konnte erfolgreich geprüft werden.
+02.08.2016 16:21:45 Schema Informationen wurden heruntergeladen.
+02.08.2016 16:22:30 Verbindung konnte erfolgreich geprüft werden.
+02.08.2016 16:22:31 Schema Informationen wurden heruntergeladen.
+02.08.2016 16:22:32 Tables wurden abgefragt.
+02.08.2016 16:22:46 Query wurde erfolgreich abgeschlossen. 
+02.08.2016 16:24:25 Verbindung konnte erfolgreich geprüft werden.
+02.08.2016 16:24:26 Schema Informationen wurden heruntergeladen.
+02.08.2016 16:26:05 Verbindung konnte erfolgreich geprüft werden.
+02.08.2016 16:26:06 Schema Informationen wurden heruntergeladen.
+02.08.2016 16:26:16 Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+02.08.2016 16:26:16 Query wurde erfolgreich abgeschlossen. 
+02.08.2016 16:26:56 Verbindung konnte erfolgreich geprüft werden.
+02.08.2016 16:26:57 Schema Informationen wurden heruntergeladen.
+02.08.2016 16:27:10 Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+02.08.2016 16:27:10 Query wurde erfolgreich abgeschlossen. 
+02.08.2016 16:27:13 Tables wurden abgefragt.
+02.08.2016 16:27:14 Error! Missing Schemainformation.
+02.08.2016 16:27:14 Query wurde erfolgreich abgeschlossen. 
+02.08.2016 16:27:17 Error! Missing Schemainformation.
+02.08.2016 16:27:17 Query wurde erfolgreich abgeschlossen. 
+02.08.2016 16:27:20 Error! Missing Schemainformation.
+02.08.2016 16:27:20 Query wurde erfolgreich abgeschlossen. 
+02.08.2016 16:27:29 Tables wurden abgefragt.
+02.08.2016 16:27:30 Error! Missing Schemainformation.
+02.08.2016 16:27:30 Query wurde erfolgreich abgeschlossen. 
+02.08.2016 16:28:25 Verbindung konnte erfolgreich geprüft werden.
+02.08.2016 16:28:26 Verbindung konnte erfolgreich geprüft werden.
+02.08.2016 16:28:27 Schema Informationen wurden heruntergeladen.
+02.08.2016 16:28:30 Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+02.08.2016 16:28:30 Query wurde erfolgreich abgeschlossen. 
+02.08.2016 16:28:31 Tables wurden abgefragt.
+02.08.2016 16:28:32 Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+02.08.2016 16:28:32 Query wurde erfolgreich abgeschlossen. 
+02.08.2016 16:28:35 Query wurde erfolgreich abgeschlossen. 
+02.08.2016 16:30:18 Verbindung konnte erfolgreich geprüft werden.
+02.08.2016 16:30:19 Schema Informationen wurden heruntergeladen.
+02.08.2016 16:30:21 Missing Schemainformation
+02.08.2016 16:30:21 Query wurde erfolgreich abgeschlossen. 
+02.08.2016 16:30:24 Tables wurden abgefragt.
+02.08.2016 16:30:25 Query wurde erfolgreich abgeschlossen. 
+02.08.2016 16:30:28 Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+02.08.2016 16:30:28 Query wurde erfolgreich abgeschlossen. 
+02.08.2016 16:30:28 Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+02.08.2016 16:30:28 Query wurde erfolgreich abgeschlossen. 
+02.08.2016 16:30:29 Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+02.08.2016 16:30:29 Query wurde erfolgreich abgeschlossen. 
+03.08.2016 11:47:33 Verbindung konnte erfolgreich geprüft werden.
+03.08.2016 11:47:34 Schema Informationen wurden heruntergeladen.
+03.08.2016 11:47:35 Tables wurden abgefragt.
+03.08.2016 11:47:47 Query wurde erfolgreich abgeschlossen. 
+03.08.2016 11:47:52 Query wurde erfolgreich abgeschlossen. 
+03.08.2016 11:48:16 Query wurde erfolgreich abgeschlossen. 
+03.08.2016 11:48:19 Query wurde erfolgreich abgeschlossen. 
+03.08.2016 11:48:22 Query wurde erfolgreich abgeschlossen. 
+03.08.2016 11:48:27 Query wurde erfolgreich abgeschlossen. 
+03.08.2016 11:48:33 Query wurde erfolgreich abgeschlossen. 
+03.08.2016 11:48:37 Query wurde erfolgreich abgeschlossen. 
+03.08.2016 11:48:53 Query wurde erfolgreich abgeschlossen. 
+03.08.2016 11:54:22 Verbindung konnte erfolgreich geprüft werden.
+03.08.2016 11:54:23 Schema Informationen wurden heruntergeladen.
+03.08.2016 11:54:24 Tables wurden abgefragt.
+03.08.2016 14:46:41 Verbindung konnte erfolgreich geprüft werden.
+03.08.2016 14:46:42 Schema Informationen wurden heruntergeladen.
+03.08.2016 14:46:44 Schema Informationen wurden heruntergeladen.
+03.08.2016 14:46:47 Schema Informationen wurden heruntergeladen.
+03.08.2016 14:55:02 Verbindung konnte erfolgreich geprüft werden.
+03.08.2016 14:55:26 Verbindung konnte erfolgreich geprüft werden.
+03.08.2016 14:55:28 Schema Informationen wurden heruntergeladen.
+03.08.2016 14:56:40 Update available
+03.08.2016 14:59:39 Verbindung konnte erfolgreich geprüft werden.
+03.08.2016 14:59:41 Schema Informationen wurden heruntergeladen.
+03.08.2016 15:02:43 Verbindung konnte erfolgreich geprüft werden.
+03.08.2016 15:02:45 Schema Informationen wurden heruntergeladen.
+03.08.2016 15:03:04 Schema Informationen wurden heruntergeladen.
+03.08.2016 15:03:07 Schema Informationen wurden heruntergeladen.
+03.08.2016 15:04:24 Verbindung konnte erfolgreich geprüft werden.
+03.08.2016 15:04:25 Schema Informationen wurden heruntergeladen.
+03.08.2016 15:04:56 Verbindung konnte erfolgreich geprüft werden.
+03.08.2016 15:05:12 Schema Informationen wurden heruntergeladen.
+03.08.2016 15:08:22 Verbindung konnte erfolgreich geprüft werden.
+03.08.2016 15:08:23 Schema Informationen wurden heruntergeladen.
+03.08.2016 15:08:25 Tables wurden abgefragt.
+03.08.2016 15:08:28 Tables wurden abgefragt.
+03.08.2016 15:09:08 Verbindung konnte erfolgreich geprüft werden.
+03.08.2016 15:09:10 Schema Informationen wurden heruntergeladen.
+03.08.2016 15:09:11 Tables wurden abgefragt.
+03.08.2016 15:09:13 Tables wurden abgefragt.
+03.08.2016 15:09:15 Tables wurden abgefragt.
+03.08.2016 15:09:20 Tables wurden abgefragt.
+03.08.2016 15:09:25 Tables wurden abgefragt.
+03.08.2016 15:09:29 Tables wurden abgefragt.
+03.08.2016 15:10:11 Verbindung konnte erfolgreich geprüft werden.
+03.08.2016 15:10:13 Schema Informationen wurden heruntergeladen.
+03.08.2016 15:10:14 Tables wurden abgefragt.
+03.08.2016 15:10:17 Error in Columquery
+03.08.2016 15:10:20 Verbindung konnte erfolgreich geprüft werden.
+03.08.2016 15:10:34 Schema Informationen wurden heruntergeladen.
+03.08.2016 15:10:36 Tables wurden abgefragt.
+03.08.2016 15:10:46 Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+03.08.2016 15:10:46 Query wurde erfolgreich abgeschlossen. 
+03.08.2016 15:11:44 Verbindung konnte erfolgreich geprüft werden.
+03.08.2016 15:11:45 Schema Informationen wurden heruntergeladen.
+03.08.2016 15:11:47 Tables wurden abgefragt.
+03.08.2016 15:11:50 Tables wurden abgefragt.
+03.08.2016 15:11:51 Tables wurden abgefragt.
+03.08.2016 15:11:54 Verbindung konnte erfolgreich geprüft werden.
+03.08.2016 15:11:55 Error beim abfragen der Tables
+03.08.2016 15:11:55 Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+03.08.2016 15:11:55 Schema Informationen wurden heruntergeladen.
+03.08.2016 15:11:56 Tables wurden abgefragt.
+03.08.2016 15:11:58 Error beim abfragen der Tables
+03.08.2016 15:11:58 Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+03.08.2016 15:11:59 Schema Informationen wurden heruntergeladen.
+03.08.2016 15:12:00 Tables wurden abgefragt.
+03.08.2016 15:12:29 Verbindung konnte erfolgreich geprüft werden.
+03.08.2016 15:12:30 Schema Informationen wurden heruntergeladen.
+03.08.2016 15:12:33 Tables wurden abgefragt.
+03.08.2016 15:55:19 Verbindung konnte erfolgreich geprüft werden.
+03.08.2016 15:55:21 Schema Informationen wurden heruntergeladen.
+03.08.2016 15:55:25 Tables wurden abgefragt.
+03.08.2016 15:55:29 Tables wurden abgefragt.
+03.08.2016 15:56:24 Verbindung konnte erfolgreich geprüft werden.
+03.08.2016 15:57:08 Schema Informationen wurden heruntergeladen.
+03.08.2016 15:58:48 Tables wurden abgefragt.
+03.08.2016 16:01:46 Verbindung konnte erfolgreich geprüft werden.
+03.08.2016 16:01:47 Schema Informationen wurden heruntergeladen.
+03.08.2016 16:01:49 Tables wurden abgefragt.
+03.08.2016 16:02:06 Verbindung konnte erfolgreich geprüft werden.
+03.08.2016 16:02:07 Schema Informationen wurden heruntergeladen.
+03.08.2016 16:02:09 Tables wurden abgefragt.
+09.08.2016 13:50:28 Verbindung konnte erfolgreich geprüft werden.
+09.08.2016 13:50:29 Schema Informationen wurden heruntergeladen.
+09.08.2016 13:52:21 Verbindung konnte erfolgreich geprüft werden.
+09.08.2016 13:52:22 Schema Informationen wurden heruntergeladen.
+09.08.2016 13:52:24 Tables wurden abgefragt.
+09.08.2016 13:53:34 Query wurde erfolgreich abgeschlossen. 
+09.08.2016 13:55:56 Verbindung konnte nicht erfolgreich hergestellt werden.
+09.08.2016 13:55:56 Server mit der IP: 127.0.0. nicht erreichbar.
+09.08.2016 13:55:58 Verbindung konnte erfolgreich geprüft werden.
+09.08.2016 13:57:46 Verbindung konnte erfolgreich geprüft werden.
+09.08.2016 14:00:07 Verbindung konnte erfolgreich geprüft werden.
+09.08.2016 14:00:13 There was an error with your Logindata.
+09.08.2016 14:00:54 Verbindung konnte erfolgreich geprüft werden.
+09.08.2016 14:00:57 There was an error with your Logindata.
+09.08.2016 14:05:55 Verbindung konnte erfolgreich geprüft werden.
+09.08.2016 14:06:05 Schema Informationen wurden heruntergeladen.
+15.01.2017 23:42:11 Verbindung konnte erfolgreich geprüft werden.
+15.01.2017 23:42:13 Schema Informationen wurden heruntergeladen.
+15.01.2017 23:42:16 Tables wurden abgefragt.
+15.01.2017 23:43:12 Query wurde erfolgreich abgeschlossen. 
+15.01.2017 23:43:15 Query wurde erfolgreich abgeschlossen. 
+15.01.2017 23:43:50 Kein Update benötigt.
+15.01.2017 23:43:52 Kein Update benötigt.
+15.01.2017 23:48:09 Verbindung konnte erfolgreich geprüft werden.
+15.01.2017 23:48:11 Schema Informationen wurden heruntergeladen.
+15.01.2017 23:48:15 Tables wurden abgefragt.
+15.01.2017 23:48:22 Query wurde erfolgreich abgeschlossen. 
+15.01.2017 23:48:24 Query wurde erfolgreich abgeschlossen. 

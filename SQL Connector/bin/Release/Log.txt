@@ -1,0 +1,180 @@
+30.07.2016 23:33:33 Verbindung konnte erfolgreich geprüft werden.
+30.07.2016 23:33:38 Schema Informationen wurden heruntergeladen.
+30.07.2016 23:33:49 No database selected
+30.07.2016 23:33:56 SQL-Datei wurde erfolgreich erstellt.
+30.07.2016 23:33:56 Der Prozess kann nicht auf die Datei "C:\Users\Raphael\Documents\Visual Studio 2015\Projects\SQL Connector\SQL Connector\bin\Release\hallo.sql" zugreifen, da sie von einem anderen Prozess verwendet wird.
+30.07.2016 23:34:14 Verbindung konnte erfolgreich geprüft werden.
+30.07.2016 23:34:18 Schema Informationen wurden heruntergeladen.
+30.07.2016 23:34:28 No database selected
+30.07.2016 23:34:36 SQL-Datei wurde erfolgreich erstellt.
+30.07.2016 23:34:36 Der Prozess kann nicht auf die Datei "C:\Users\Raphael\Documents\Visual Studio 2015\Projects\SQL Connector\SQL Connector\bin\Release\test.sql" zugreifen, da sie von einem anderen Prozess verwendet wird.
+30.07.2016 23:35:55 Verbindung konnte erfolgreich geprüft werden.
+30.07.2016 23:36:00 Schema Informationen wurden heruntergeladen.
+30.07.2016 23:36:04 SQL-Datei wurde erfolgreich erstellt.
+30.07.2016 23:53:49 Verbindung konnte erfolgreich geprüft werden.
+30.07.2016 23:53:54 Schema Informationen wurden heruntergeladen.
+30.07.2016 23:54:10 Unknown column 'entry' in 'where clause'
+30.07.2016 23:54:11 Unknown column 'entry' in 'where clause'
+30.07.2016 23:54:12 Unknown column 'entry' in 'where clause'
+30.07.2016 23:55:10 Verbindung konnte erfolgreich geprüft werden.
+30.07.2016 23:55:16 Schema Informationen wurden heruntergeladen.
+30.07.2016 23:55:21 Leeres Resultfeld wurde übergeben.
+30.07.2016 23:55:26 Unknown column 'entry' in 'where clause'
+30.07.2016 23:57:32 Verbindung konnte erfolgreich geprüft werden.
+30.07.2016 23:57:39 Schema Informationen wurden heruntergeladen.
+30.07.2016 23:58:23 Verbindung konnte erfolgreich geprüft werden.
+30.07.2016 23:58:27 Schema Informationen wurden heruntergeladen.
+30.07.2016 23:59:29 Verbindung konnte erfolgreich geprüft werden.
+30.07.2016 23:59:35 Schema Informationen wurden heruntergeladen.
+31.07.2016 00:00:23 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 00:00:27 Schema Informationen wurden heruntergeladen.
+31.07.2016 00:00:29 No database selected
+31.07.2016 00:03:21 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 00:03:26 Schema Informationen wurden heruntergeladen.
+31.07.2016 00:04:21 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 00:04:26 Schema Informationen wurden heruntergeladen.
+31.07.2016 00:05:44 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 00:05:48 Schema Informationen wurden heruntergeladen.
+31.07.2016 00:06:55 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 00:09:06 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 00:09:45 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 00:09:49 Schema Informationen wurden heruntergeladen.
+31.07.2016 00:09:54 Query wurde erfolgreich abgeschlossen. Select * from creature where guid= 800044;
+31.07.2016 00:10:31 Leeres Resultfeld wurde übergeben.
+31.07.2016 00:10:31 Leeres Resultfeld wurde übergeben.
+31.07.2016 00:10:31 Leeres Resultfeld wurde übergeben.
+31.07.2016 00:10:31 Leeres Resultfeld wurde übergeben.
+31.07.2016 00:10:31 Leeres Resultfeld wurde übergeben.
+31.07.2016 00:13:32 SQL-Datei wurde erfolgreich erstellt.
+31.07.2016 00:13:57 SQL-Datei wurde erfolgreich erstellt.
+31.07.2016 00:13:57 SQL-Datei wurde erfolgreich erstellt.
+31.07.2016 00:16:23 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 00:16:28 Schema Informationen wurden heruntergeladen.
+31.07.2016 00:16:31 Query wurde erfolgreich abgeschlossen. Select * from creature where guid= 800044;
+31.07.2016 00:16:38 SQL-Datei 800044.txt wurde erfolgreich erstellt.
+31.07.2016 00:17:42 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 00:17:46 Schema Informationen wurden heruntergeladen.
+31.07.2016 00:17:48 Query wurde erfolgreich abgeschlossen. Select * from creature where guid= 800044;
+31.07.2016 00:18:10 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 00:18:15 Schema Informationen wurden heruntergeladen.
+31.07.2016 00:18:18 Query wurde erfolgreich abgeschlossen. Select * from creature where guid= 800044;
+31.07.2016 00:19:14 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 00:19:18 Schema Informationen wurden heruntergeladen.
+31.07.2016 00:19:21 Query wurde erfolgreich abgeschlossen. Select * from creature where guid= 800044;
+31.07.2016 00:19:35 SQL-Datei tety wurde erfolgreich erstellt.
+31.07.2016 00:20:39 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 00:20:44 Schema Informationen wurden heruntergeladen.
+31.07.2016 00:20:47 Query wurde erfolgreich abgeschlossen. Select * from creature where guid= 800044;
+31.07.2016 00:20:49 SQL-Datei Filename wurde erfolgreich erstellt.
+31.07.2016 00:20:56 SQL-Datei Filenamedasdasd wurde erfolgreich erstellt.
+31.07.2016 00:21:38 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 00:21:43 Schema Informationen wurden heruntergeladen.
+31.07.2016 00:21:46 Query wurde erfolgreich abgeschlossen. Select * from creature where guid= 800044;
+31.07.2016 00:22:08 SQL-Datei game wurde erfolgreich erstellt.
+31.07.2016 00:22:39 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 00:22:43 Schema Informationen wurden heruntergeladen.
+31.07.2016 00:22:45 Query wurde erfolgreich abgeschlossen. Select * from creature where guid= 800044;
+31.07.2016 00:22:49 SQL-Datei gamrs wurde erfolgreich erstellt.
+31.07.2016 00:24:42 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 00:24:46 Schema Informationen wurden heruntergeladen.
+31.07.2016 00:24:49 Query wurde erfolgreich abgeschlossen. Select * from creature where guid= 800044;
+31.07.2016 00:25:56 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 00:26:00 Schema Informationen wurden heruntergeladen.
+31.07.2016 00:26:05 Query wurde erfolgreich abgeschlossen. Select * from creature where guid= 800044;
+31.07.2016 00:28:27 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 00:28:31 Schema Informationen wurden heruntergeladen.
+31.07.2016 00:28:34 Query wurde erfolgreich abgeschlossen. Select * from creature where guid= 800044;
+31.07.2016 00:31:30 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 00:31:38 Schema Informationen wurden heruntergeladen.
+31.07.2016 00:31:41 Query wurde erfolgreich abgeschlossen. Select * from creature where guid= 800044;
+31.07.2016 00:31:46 SQL-Datei teste.txt wurde erfolgreich erstellt.
+31.07.2016 00:37:04 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 00:37:08 Schema Informationen wurden heruntergeladen.
+31.07.2016 00:37:10 Query wurde erfolgreich abgeschlossen. Select * from creature where guid= 800044;
+31.07.2016 00:37:14 SQL-Datei Filenameaaaaa.txt wurde erfolgreich erstellt.
+31.07.2016 00:39:27 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 00:39:32 Schema Informationen wurden heruntergeladen.
+31.07.2016 00:39:34 Query wurde erfolgreich abgeschlossen. Select * from creature where guid= 800044;
+31.07.2016 00:39:41 SQL-Datei firstreal.sql wurde erfolgreich erstellt.
+31.07.2016 00:40:23 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 00:40:33 Schema Informationen wurden heruntergeladen.
+31.07.2016 00:40:35 Query wurde erfolgreich abgeschlossen. Select * from creature where guid= 800044;
+31.07.2016 00:40:42 SQL-Datei improved.sql wurde erfolgreich erstellt.
+31.07.2016 00:46:18 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 00:46:22 Schema Informationen wurden heruntergeladen.
+31.07.2016 00:46:40 Query wurde erfolgreich abgeschlossen. Select * from creature where guid = 800044;
+31.07.2016 00:46:42 Der Index war außerhalb des Arraybereichs.
+31.07.2016 00:48:06 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 00:48:11 Schema Informationen wurden heruntergeladen.
+31.07.2016 00:48:14 Query wurde erfolgreich abgeschlossen. Select * from creature where guid = 800044;
+31.07.2016 00:48:16 Der Index war außerhalb des Arraybereichs.
+31.07.2016 00:49:01 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 00:49:04 Schema Informationen wurden heruntergeladen.
+31.07.2016 00:49:06 Query wurde erfolgreich abgeschlossen. Select * from creature where guid = 800044;
+31.07.2016 00:49:08 SQL-Datei dasdas.sql wurde erfolgreich erstellt.
+31.07.2016 00:49:21 SQL-Datei dasdas.sql wurde erfolgreich erstellt.
+31.07.2016 00:53:03 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 00:53:06 Schema Informationen wurden heruntergeladen.
+31.07.2016 00:53:22 Query wurde erfolgreich abgeschlossen. Select  * from creature where guid = 800044;
+31.07.2016 00:53:24 SQL-Datei wer.sql wurde erfolgreich erstellt.
+31.07.2016 00:53:39 SQL-Datei wer.sql wurde erfolgreich erstellt.
+31.07.2016 00:53:57 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 00:54:01 Schema Informationen wurden heruntergeladen.
+31.07.2016 00:54:04 Query wurde erfolgreich abgeschlossen. Select  * from creature where guid = 800044;
+31.07.2016 00:54:07 SQL-Datei testtttt.sql wurde erfolgreich erstellt.
+31.07.2016 01:10:42 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 01:10:46 Schema Informationen wurden heruntergeladen.
+31.07.2016 01:10:58 Query wurde erfolgreich abgeschlossen. Select * from creature where guid = 800044;
+31.07.2016 01:11:06 SQL-Datei dsfsdfwef.sql wurde erfolgreich erstellt.
+31.07.2016 01:12:06 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 01:12:10 Schema Informationen wurden heruntergeladen.
+31.07.2016 01:12:24 Query wurde erfolgreich abgeschlossen. Select * from creature where guid = 800044;
+31.07.2016 01:12:36 SQL-Datei Filename.sql wurde erfolgreich erstellt.
+31.07.2016 01:14:38 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 01:14:43 Schema Informationen wurden heruntergeladen.
+31.07.2016 01:14:56 Invalid attempt to access a field before calling Read()
+31.07.2016 01:14:56 Query wurde erfolgreich abgeschlossen. Select * from creature where guid = 800044;
+31.07.2016 01:15:13 Invalid attempt to access a field before calling Read()
+31.07.2016 01:15:13 Query wurde erfolgreich abgeschlossen. Select * from creature where guid = 800044;
+31.07.2016 01:15:34 Invalid attempt to access a field before calling Read()
+31.07.2016 01:15:34 Query wurde erfolgreich abgeschlossen. Select * from creature where guid = 800044;
+31.07.2016 09:40:22 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 09:40:28 Schema Informationen wurden heruntergeladen.
+31.07.2016 09:40:46 Query wurde erfolgreich abgeschlossen. Select * from creature where guid = 800044;
+31.07.2016 09:41:31 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 09:41:36 Schema Informationen wurden heruntergeladen.
+31.07.2016 09:41:39 Query wurde erfolgreich abgeschlossen. Select * from creature where guid = 800044;
+31.07.2016 09:41:44 SQL-Datei testry.sql wurde erfolgreich erstellt.
+31.07.2016 09:46:15 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 09:46:20 Schema Informationen wurden heruntergeladen.
+31.07.2016 09:46:23 Query wurde erfolgreich abgeschlossen. Select * from creature where guid = 800044;
+31.07.2016 09:46:26 SQL-Datei Filename.sql wurde erfolgreich erstellt.
+31.07.2016 09:47:16 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 09:47:22 Schema Informationen wurden heruntergeladen.
+31.07.2016 09:47:24 Query wurde erfolgreich abgeschlossen. Select * from creature where guid = 800044;
+31.07.2016 09:47:26 SQL-Datei Filename1.sql wurde erfolgreich erstellt.
+31.07.2016 09:54:28 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 09:54:34 Schema Informationen wurden heruntergeladen.
+31.07.2016 09:54:56 Query wurde erfolgreich abgeschlossen. Select * from creature where guid = 800044;
+31.07.2016 09:54:58 SQL-Datei Filename22.sql wurde erfolgreich erstellt.
+31.07.2016 10:00:42 Verbindung konnte nicht erfolgreich hergestellt werden.
+31.07.2016 10:00:42 Server mit der IP: 127,0 nicht erreichbar.
+31.07.2016 10:00:44 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 10:00:49 Schema Informationen wurden heruntergeladen.
+31.07.2016 10:01:02 Query wurde erfolgreich abgeschlossen. Select * from creature where guid = 800044;
+31.07.2016 10:01:42 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 10:01:47 Schema Informationen wurden heruntergeladen.
+31.07.2016 10:01:49 Query wurde erfolgreich abgeschlossen. Select * from creature where guid = 800044;
+31.07.2016 10:09:46 SQL-Datei Filename.sql wurde erfolgreich erstellt.
+31.07.2016 10:10:22 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 10:10:30 Schema Informationen wurden heruntergeladen.
+31.07.2016 10:10:36 Query wurde erfolgreich abgeschlossen. Select * from creature where guid = 800044;
+31.07.2016 10:11:30 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 10:11:34 Schema Informationen wurden heruntergeladen.
+31.07.2016 10:11:37 Query wurde erfolgreich abgeschlossen. Select * from creature where guid = 800044;
+31.07.2016 10:11:57 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 10:12:07 Schema Informationen wurden heruntergeladen.
+31.07.2016 10:12:13 Query wurde erfolgreich abgeschlossen. Select * from creature where guid = 800044;
+31.07.2016 10:15:43 Verbindung konnte erfolgreich geprüft werden.
+31.07.2016 10:15:48 Schema Informationen wurden heruntergeladen.
+31.07.2016 10:15:59 Query wurde erfolgreich abgeschlossen. Select * from creature where guid = 800044;

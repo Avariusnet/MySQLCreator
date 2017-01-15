@@ -1,0 +1,23 @@
+c:\users\raphael\documents\visual studio 2015\Projects\SQL Connector\SQL Connector\bin\Debug\SQL Connector.exe.config
+c:\users\raphael\documents\visual studio 2015\Projects\SQL Connector\SQL Connector\bin\Debug\SQL Connector.exe
+c:\users\raphael\documents\visual studio 2015\Projects\SQL Connector\SQL Connector\bin\Debug\SQL Connector.pdb
+c:\users\raphael\documents\visual studio 2015\Projects\SQL Connector\SQL Connector\bin\Debug\EntityFramework.dll
+c:\users\raphael\documents\visual studio 2015\Projects\SQL Connector\SQL Connector\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\raphael\documents\visual studio 2015\Projects\SQL Connector\SQL Connector\bin\Debug\MySql.Data.dll
+c:\users\raphael\documents\visual studio 2015\Projects\SQL Connector\SQL Connector\bin\Debug\MySql.Data.Entity.EF6.dll
+c:\users\raphael\documents\visual studio 2015\Projects\SQL Connector\SQL Connector\bin\Debug\MySql.Web.dll
+c:\users\raphael\documents\visual studio 2015\Projects\SQL Connector\SQL Connector\bin\Debug\EntityFramework.xml
+c:\users\raphael\documents\visual studio 2015\Projects\SQL Connector\SQL Connector\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\raphael\documents\visual studio 2015\Projects\SQL Connector\SQL Connector\obj\Debug\MainWindow.g.cs
+c:\users\raphael\documents\visual studio 2015\Projects\SQL Connector\SQL Connector\obj\Debug\App.g.cs
+c:\users\raphael\documents\visual studio 2015\Projects\SQL Connector\SQL Connector\obj\Debug\SQL Connector_MarkupCompile.cache
+c:\users\raphael\documents\visual studio 2015\Projects\SQL Connector\SQL Connector\obj\Debug\SQL Connector_MarkupCompile.lref
+c:\users\raphael\documents\visual studio 2015\Projects\SQL Connector\SQL Connector\obj\Debug\MainWindow.baml
+c:\users\raphael\documents\visual studio 2015\Projects\SQL Connector\SQL Connector\obj\Debug\SQL Connector.g.resources
+c:\users\raphael\documents\visual studio 2015\Projects\SQL Connector\SQL Connector\obj\Debug\SQL_Connector.Properties.Resources.resources
+c:\users\raphael\documents\visual studio 2015\Projects\SQL Connector\SQL Connector\obj\Debug\SQL Connector.csproj.GenerateResource.Cache
+c:\users\raphael\documents\visual studio 2015\Projects\SQL Connector\SQL Connector\obj\Debug\SQL Connector.exe
+c:\users\raphael\documents\visual studio 2015\Projects\SQL Connector\SQL Connector\obj\Debug\SQL Connector.pdb
+C:\Users\Raphael\Documents\Visual Studio 2015\Projects\SQL Connector\SQL Connector\obj\Debug\Settingspage.g.cs
+C:\Users\Raphael\Documents\Visual Studio 2015\Projects\SQL Connector\SQL Connector\obj\Debug\Settingspage.baml
+C:\Users\Raphael\Documents\Visual Studio 2015\Projects\SQL Connector\SQL Connector\obj\Debug\SQL Connector.csprojResolveAssemblyReference.cache
