@@ -34,7 +34,7 @@ namespace Update
 
                 catch
                 {
-                    Logger.Logs("Updateserver konnte nicht erreicht werden.");
+                    Logger.Logs("Updateserver not reachable.");
 
                     return 400;
                 }

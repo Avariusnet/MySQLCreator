@@ -21,3 +21,26 @@ c:\users\raphael\documents\visual studio 2015\Projects\SQL Connector\SQL Connect
 C:\Users\Raphael\Documents\Visual Studio 2015\Projects\SQL Connector\SQL Connector\obj\Debug\Settingspage.g.cs
 C:\Users\Raphael\Documents\Visual Studio 2015\Projects\SQL Connector\SQL Connector\obj\Debug\Settingspage.baml
 C:\Users\Raphael\Documents\Visual Studio 2015\Projects\SQL Connector\SQL Connector\obj\Debug\SQL Connector.csprojResolveAssemblyReference.cache
+C:\Users\rapha\Documents\MySQLConnector\SQL Connector\bin\Debug\SQL Connector.exe.config
+C:\Users\rapha\Documents\MySQLConnector\SQL Connector\bin\Debug\SQL Connector.exe
+C:\Users\rapha\Documents\MySQLConnector\SQL Connector\bin\Debug\SQL Connector.pdb
+C:\Users\rapha\Documents\MySQLConnector\SQL Connector\bin\Debug\EntityFramework.dll
+C:\Users\rapha\Documents\MySQLConnector\SQL Connector\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rapha\Documents\MySQLConnector\SQL Connector\bin\Debug\MySql.Data.dll
+C:\Users\rapha\Documents\MySQLConnector\SQL Connector\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\rapha\Documents\MySQLConnector\SQL Connector\bin\Debug\MySql.Web.dll
+C:\Users\rapha\Documents\MySQLConnector\SQL Connector\bin\Debug\EntityFramework.xml
+C:\Users\rapha\Documents\MySQLConnector\SQL Connector\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rapha\Documents\MySQLConnector\SQL Connector\obj\Debug\SQL Connector.csprojResolveAssemblyReference.cache
+C:\Users\rapha\Documents\MySQLConnector\SQL Connector\obj\Debug\MainWindow.g.cs
+C:\Users\rapha\Documents\MySQLConnector\SQL Connector\obj\Debug\Settingspage.g.cs
+C:\Users\rapha\Documents\MySQLConnector\SQL Connector\obj\Debug\App.g.cs
+C:\Users\rapha\Documents\MySQLConnector\SQL Connector\obj\Debug\SQL Connector_MarkupCompile.cache
+C:\Users\rapha\Documents\MySQLConnector\SQL Connector\obj\Debug\SQL Connector_MarkupCompile.lref
+C:\Users\rapha\Documents\MySQLConnector\SQL Connector\obj\Debug\MainWindow.baml
+C:\Users\rapha\Documents\MySQLConnector\SQL Connector\obj\Debug\Settingspage.baml
+C:\Users\rapha\Documents\MySQLConnector\SQL Connector\obj\Debug\SQL Connector.g.resources
+C:\Users\rapha\Documents\MySQLConnector\SQL Connector\obj\Debug\SQL_Connector.Properties.Resources.resources
+C:\Users\rapha\Documents\MySQLConnector\SQL Connector\obj\Debug\SQL Connector.csproj.GenerateResource.Cache
+C:\Users\rapha\Documents\MySQLConnector\SQL Connector\obj\Debug\SQL Connector.exe
+C:\Users\rapha\Documents\MySQLConnector\SQL Connector\obj\Debug\SQL Connector.pdb

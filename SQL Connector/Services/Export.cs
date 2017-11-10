@@ -42,7 +42,7 @@ namespace Export
 
             if (String.IsNullOrEmpty(data))
             {
-                Logging.Logger.Logs("Leeres Resultfeld wurde übergeben.");
+                Logging.Logger.Logs("Empty Resultfield was given!");
                 return false;
             }
             
@@ -88,7 +88,7 @@ namespace Export
                 completestring = beginstring + headerstring + valuestring;
                 sw.WriteLine(completestring);
                 sw.Close();
-                Logging.Logger.Logs("SQL-Datei " + filenames + " wurde erfolgreich erstellt.");
+                Logging.Logger.Logs("SQL-File " + filenames + " was created sucessfully.");
                 return true;
             }
 

@@ -56,18 +56,34 @@ namespace Data
             try
             {
                 string ipadr = ip;
-                Ping Pingsender = new Ping();
-                IPAddress adr = IPAddress.Parse(ip);
-                PingReply reply = Pingsender.Send(adr);
 
-                if (reply.Status == IPStatus.Success)
+                IPHostEntry hostEntry;
+
+                hostEntry = Dns.GetHostEntry(ipadr);
+
+                //you might get more than one ip for a hostname since 
+                //DNS supports more than one record
+
+                if (hostEntry.AddressList.Length > 0)
                 {
-                    Logger.Logs("Verbindung konnte erfolgreich geprüft werden.");
-                    return true;
+                    var newip = hostEntry.AddressList[0];
+                    Ping Pingsender = new Ping();
+                   // IPAddress adr = IPAddress.Parse(ip);
+                    PingReply reply = Pingsender.Send(newip);
+
+                    if (reply.Status == IPStatus.Success)
+                    {
+                        Logger.Logs("Verbindung konnte erfolgreich geprüft werden.");
+                        return true;
+
+                    }
+
+                    return false;
 
                 }
 
                 return false;
+               
 
             }
 
@@ -484,7 +500,7 @@ namespace Data
             catch (Exception ex)
             {
 
-                Console.WriteLine("Fehler in List.");
+                Console.WriteLine("Error in List.");
                 Logger.Logs(ex.Message);
                 list.Add("Wrong SQL-Syntax. Visit Log for further Information");
                 return list;

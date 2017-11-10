@@ -82,8 +82,10 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Compile Include="Ausgabe.cs" />
-    <Compile Include="Export.cs" />
+    <Compile Include="Enums\StringWarnings.cs" />
+    <Compile Include="Globals\Statics.cs" />
+    <Compile Include="Services\Ausgabe.cs" />
+    <Compile Include="Services\Export.cs" />
     <Compile Include="mySetting.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
@@ -92,7 +94,7 @@
     <Compile Include="Settingspage.xaml.cs">
       <DependentUpon>Settingspage.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Update.cs" />
+    <Compile Include="Services\Update.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -101,8 +103,8 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Data.cs" />
-    <Compile Include="Logging.cs" />
+    <Compile Include="Services\Connections.cs" />
+    <Compile Include="Services\Logging.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>

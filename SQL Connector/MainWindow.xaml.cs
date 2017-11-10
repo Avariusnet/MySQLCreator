@@ -79,7 +79,7 @@ namespace SQL_Connector
                 {
                     if(element == "Error")
                     {
-                        Logger.Logs("There was an error with your Logindata.");
+                        Logger.Logs("Can´t login to the SQL Database.");
                         MessageBox.Show("Check your Logindata");
                         Abfrage.Visibility = System.Windows.Visibility.Hidden;
                         SCHEMABOX.Visibility = System.Windows.Visibility.Hidden;
@@ -151,6 +151,11 @@ namespace SQL_Connector
         {
             if(e.Key == Key.Enter)
             {
+                if (String.IsNullOrEmpty(IP.Text))
+                {
+                    MessageBox.Show("Please insert an IP Adress or an valid Hostname");
+                    return;
+                }
 
                 if (IP.Text != "")
                 {
@@ -252,10 +257,7 @@ namespace SQL_Connector
         {
             Settingspage  ui = new Settingspage();
             Window test = new Window();
-            //einstellungen.Content = SQL_Connector.Settingspage
-            //einstellungen.Content = ui;
             TextBox box = new TextBox();
-            //box.Margin = 
                      
             test.Show();
 
@@ -264,7 +266,7 @@ namespace SQL_Connector
 
         private void UPDATE_Click(object sender, RoutedEventArgs e)
         {
-            string programmversion = "Version: 5";
+            string programmversion = Statics.Statics.ProgrammVersion;
             
             int update = Update.Update.update(programmversion);
             MessageBox.Show(Update.Update.updatemeldung(update));

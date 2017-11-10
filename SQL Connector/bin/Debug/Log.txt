@@ -852,3 +852,20 @@
 15.01.2017 23:48:15 Tables wurden abgefragt.
 15.01.2017 23:48:22 Query wurde erfolgreich abgeschlossen. 
 15.01.2017 23:48:24 Query wurde erfolgreich abgeschlossen. 
+10.11.2017 13:51:57 Verbindung konnte erfolgreich geprüft werden.
+10.11.2017 13:52:28 Schema Informationen wurden heruntergeladen.
+10.11.2017 13:52:36 Tables wurden abgefragt.
+10.11.2017 13:52:41 Error in Columquery
+10.11.2017 13:52:50 Error in Columquery
+10.11.2017 13:52:53 Error in Columquery
+10.11.2017 13:52:57 Error in Columquery
+10.11.2017 13:53:17 Verbindung konnte erfolgreich geprüft werden.
+10.11.2017 13:53:20 There was an error with your Logindata.
+10.11.2017 13:53:24 There was an error with your Logindata.
+10.11.2017 13:55:05 Verbindung konnte nicht erfolgreich hergestellt werden.
+10.11.2017 13:55:05 Server mit der IP: exitare.de nicht erreichbar.
+10.11.2017 14:04:41 Verbindung konnte erfolgreich geprüft werden.
+10.11.2017 14:10:11 Verbindung konnte erfolgreich geprüft werden.
+10.11.2017 14:10:30 Schema Informationen wurden heruntergeladen.
+10.11.2017 14:12:12 Tables wurden abgefragt.
+10.11.2017 14:12:22 Tables wurden abgefragt.
