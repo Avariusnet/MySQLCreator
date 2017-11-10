@@ -49,7 +49,14 @@ namespace Ausgabe
                     string colum = COLUMBOX.SelectedItem.ToString();
 
                     string query = "";
-                    query = optionstring + " * FROM " + tables + " where " + colum + " = " + SEARCHBOX.Text + ";";
+                    if (String.IsNullOrEmpty(SEARCHBOX.Text)){
+                        query = optionstring + " * FROM " + tables;
+                    }
+                    else
+                    {
+                        query = optionstring + " * FROM " + tables + " where " + colum + " = " + SEARCHBOX.Text + ";";
+                    }
+                   
                     Console.WriteLine(query);
                     QUERY.Text = query;
 

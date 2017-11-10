@@ -5,11 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:SQL_Connector"
         mc:Ignorable="d"
-        Title="Exitare's MySql Connector" Height="720" Width="1280">
+        Title="Exitare's MySql Creator" Height="720" Width="1280" ResizeMode="NoResize" >
     <Grid>
-        <Grid.Background>
-            <ImageBrush />
-        </Grid.Background>
+      
         <Button x:Name="Abfrage" Content="Fire!" HorizontalAlignment="Left" Margin="872,262,0,0" VerticalAlignment="Top" Width="75" Click="button_Click" IsEnabled="False" Visibility="Visible"/>
         <TextBox x:Name="IP" HorizontalAlignment="Left" Height="23" Margin="263,124,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="167" TabIndex="1" KeyDown="IP_KeyDown" ToolTip="After entering your IP press Enter" Text="127.0.0.1"/>
         <TextBox x:Name="PORT" HorizontalAlignment="Left" Height="23" Margin="491,126,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="167" TabIndex="2"  IsEnabled="False" Text="3306"/>

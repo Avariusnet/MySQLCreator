@@ -163,8 +163,8 @@ namespace Data
 
 
                 }
-                Console.WriteLine("Gefunden wurden:" + list.Count);
-                Logger.Logs("Schema Informationen wurden heruntergeladen.");
+                Console.WriteLine("Found:" + list.Count);
+                Logger.Logs("Downloaded all Schema Informations.");
 
                 rdr.Close();
                 return list;
