@@ -1,12 +1,10 @@
 ﻿using System;
 using System.Net;
 using System.IO;
-using Logging;
 using System.Collections.Generic;
 using System.Windows.Controls;
 
-namespace Update
-{
+namespace SQLCreator {
     class Update
     {
         public static int update(string programmversion)
@@ -78,9 +76,9 @@ namespace Update
 
             catch (Exception ex)
             {
-                Logging.Logger.Logs("Update failed!");
+                Logger.Logs("Update failed!");
                 Console.WriteLine(ex.Message);
-                Logging.Logger.Logs(ex.Message);
+                Logger.Logs(ex.Message);
                 return 400;
             }
 

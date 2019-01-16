@@ -1,13 +1,11 @@
-﻿using Data;
-using Logging;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Windows.Controls;
 
 
-namespace Ausgabe
+namespace SQLCreator
 {
-    class Ausgabe
+    class Output
     {
         public static List<string> ausgabe(TextBox RESULT, TextBox QUERY, Button EXPORT, ComboBox OPTIONBOX, TextBox SEARCHBOX, ComboBox SCHEMABOX, ComboBox COLUMBOX, ComboBox TABLEBOX, TextBox IP, TextBox PORT, TextBox USER, PasswordBox PASSWORD)
         {

@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQL Connector", "SQL Connector\SQL Connector.csproj", "{458B0466-AAC1-4EB9-AF5C-B89FC8ACF2F0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySQLCreator", "SQL Connector\MySQLCreator.csproj", "{458B0466-AAC1-4EB9-AF5C-B89FC8ACF2F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,13 +19,7 @@ Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 2
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = https://visionprogramming.visualstudio.com/defaultcollection
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = SQL\u0020Connector\\SQL\u0020Connector.csproj
-		SccProjectName1 = SQL\u0020Connector
-		SccLocalPath1 = SQL\u0020Connector
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF01469F-B5FA-45BF-A798-1D7DDB1A18CC}
 	EndGlobalSection
 EndGlobal

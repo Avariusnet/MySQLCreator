@@ -44,3 +44,28 @@ C:\Users\rapha\Documents\MySQLConnector\SQL Connector\obj\Debug\SQL_Connector.Pr
 C:\Users\rapha\Documents\MySQLConnector\SQL Connector\obj\Debug\SQL Connector.csproj.GenerateResource.Cache
 C:\Users\rapha\Documents\MySQLConnector\SQL Connector\obj\Debug\SQL Connector.exe
 C:\Users\rapha\Documents\MySQLConnector\SQL Connector\obj\Debug\SQL Connector.pdb
+D:\Projekte\MySQLConnector\SQL Connector\bin\Debug\SQL Connector.exe.config
+D:\Projekte\MySQLConnector\SQL Connector\bin\Debug\SQL Connector.exe
+D:\Projekte\MySQLConnector\SQL Connector\bin\Debug\SQL Connector.pdb
+D:\Projekte\MySQLConnector\SQL Connector\bin\Debug\EntityFramework.dll
+D:\Projekte\MySQLConnector\SQL Connector\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projekte\MySQLConnector\SQL Connector\bin\Debug\MySql.Data.dll
+D:\Projekte\MySQLConnector\SQL Connector\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\Projekte\MySQLConnector\SQL Connector\bin\Debug\MySql.Web.dll
+D:\Projekte\MySQLConnector\SQL Connector\bin\Debug\EntityFramework.xml
+D:\Projekte\MySQLConnector\SQL Connector\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projekte\MySQLConnector\SQL Connector\obj\Debug\SQL Connector.csprojAssemblyReference.cache
+D:\Projekte\MySQLConnector\SQL Connector\obj\Debug\MainWindow.g.cs
+D:\Projekte\MySQLConnector\SQL Connector\obj\Debug\Settingspage.g.cs
+D:\Projekte\MySQLConnector\SQL Connector\obj\Debug\App.g.cs
+D:\Projekte\MySQLConnector\SQL Connector\obj\Debug\SQL Connector_MarkupCompile.cache
+D:\Projekte\MySQLConnector\SQL Connector\obj\Debug\SQL Connector_MarkupCompile.lref
+D:\Projekte\MySQLConnector\SQL Connector\obj\Debug\MainWindow.baml
+D:\Projekte\MySQLConnector\SQL Connector\obj\Debug\Settingspage.baml
+D:\Projekte\MySQLConnector\SQL Connector\obj\Debug\SQL Connector.g.resources
+D:\Projekte\MySQLConnector\SQL Connector\obj\Debug\SQL_Connector.Properties.Resources.resources
+D:\Projekte\MySQLConnector\SQL Connector\obj\Debug\SQL Connector.csproj.GenerateResource.cache
+D:\Projekte\MySQLConnector\SQL Connector\obj\Debug\SQL Connector.csproj.CoreCompileInputs.cache
+D:\Projekte\MySQLConnector\SQL Connector\obj\Debug\SQL Connector.csproj.CopyComplete
+D:\Projekte\MySQLConnector\SQL Connector\obj\Debug\SQL Connector.exe
+D:\Projekte\MySQLConnector\SQL Connector\obj\Debug\SQL Connector.pdb

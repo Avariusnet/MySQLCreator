@@ -1,30 +1,11 @@
 ﻿using System;
-using System.Data;
-using MySql.Data.MySqlClient;
-using System.Data.SqlClient;
 using System.Collections.Generic;
-using System.Net.NetworkInformation;
-using System.Net;
-using System.Threading.Tasks;
-using Logging;
-using SQL_Connector;
 using System.IO;
-using System.Linq;
-using System.Text;
-using System.Windows;
 using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
-using Data;
 
 
-namespace Export
-{
+
+namespace SQLCreator {
     class Export
     {
 
@@ -42,7 +23,7 @@ namespace Export
 
             if (String.IsNullOrEmpty(data))
             {
-                Logging.Logger.Logs("Empty Resultfield was given!");
+                Logger.Logs("Empty Resultfield was given!");
                 return false;
             }
             
@@ -88,7 +69,7 @@ namespace Export
                 completestring = beginstring + headerstring + valuestring;
                 sw.WriteLine(completestring);
                 sw.Close();
-                Logging.Logger.Logs("SQL-File " + filenames + " was created sucessfully.");
+                Logger.Logs("SQL-File " + filenames + " was created sucessfully.");
                 return true;
             }
 

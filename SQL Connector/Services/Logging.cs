@@ -1,10 +1,8 @@
 ﻿using System;
-using Data;
 using System.IO;
 
 
-namespace Logging
-{
+namespace SQLCreator {
     
     class Logger
     {

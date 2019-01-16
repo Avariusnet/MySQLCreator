@@ -18,7 +18,7 @@
       <Value Profile="(Default)">Red</Value>
     </Setting>
     <Setting Name="Copyright" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Copyright Exitare 2016-2017</Value>
+      <Value Profile="(Default)">Copyright Exitare 2016-2019</Value>
     </Setting>
     <Setting Name="IP" Type="System.String" Scope="User">
       <Value Profile="(Default)">127.0.0.1</Value>
@@ -30,7 +30,7 @@
       <Value Profile="(Default)">root</Value>
     </Setting>
     <Setting Name="PASSWORD" Type="System.String" Scope="User">
-      <Value Profile="(Default)">raphaelk1</Value>
+      <Value Profile="(Default)">root</Value>
     </Setting>
   </Settings>
 </SettingsFile>

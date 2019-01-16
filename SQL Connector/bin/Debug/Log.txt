@@ -904,3 +904,5 @@
 10.11.2017 14:34:42 Unknown column 'localhost' in 'where clause'
 10.11.2017 14:34:43 Unknown column 'localhost' in 'where clause'
 10.11.2017 14:34:43 Query wurde erfolgreich abgeschlossen. 
+16.01.2019 14:39:23 Verbindung konnte erfolgreich geprüft werden.
+16.01.2019 14:39:24 Can´t login to the SQL Database.

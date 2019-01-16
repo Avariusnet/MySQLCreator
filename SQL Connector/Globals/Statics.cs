@@ -1,7 +1,6 @@
 ﻿using System;
 
-namespace Statics
-{
+namespace SQLCreator {
 
     public class Statics
     {

@@ -12,15 +12,13 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-using Data;
+
 using MySql.Data.MySqlClient;
 using System.Net.NetworkInformation;
 using System.Net;
-using Logging;
 using System.IO;
-using Export;
 using System.Threading;
-using Ausgabe;
+using SQLCreator;
 
 namespace SQL_Connector
 {
@@ -128,7 +126,7 @@ namespace SQL_Connector
             EXPORT.IsEnabled = true;
             Verbindung vbd = new Verbindung();
 
-            List<string> ergebnis = Ausgabe.Ausgabe.ausgabe(RESULT, QUERY, EXPORT, OPTIONBOX, SEARCHBOX, SCHEMABOX, COLUMBOX, TABLEBOX, IP, PORT, USER, PASSWORD);
+            List<string> ergebnis = Output.ausgabe(RESULT, QUERY, EXPORT, OPTIONBOX, SEARCHBOX, SCHEMABOX, COLUMBOX, TABLEBOX, IP, PORT, USER, PASSWORD);
             QUERY.Clear();
             foreach (string element in ergebnis)
             {
@@ -172,7 +170,7 @@ namespace SQL_Connector
                     }
                     else
                     {
-                        Logging.Logger.Logs("Server mit der IP: " + ip + " nicht erreichbar.");
+                        Logger.Logs("Server mit der IP: " + ip + " nicht erreichbar.");
                         MessageBox.Show("Server nicht erreichbar");
                         return;
                     }
@@ -230,7 +228,7 @@ namespace SQL_Connector
                    
             try
             {
-                bool sucess = Export.Export.exportsql(data, filename, TABLEBOX, liste, BEFEHLBOX);
+                bool sucess = Export.exportsql(data, filename, TABLEBOX, liste, BEFEHLBOX);
 
                 if (sucess)
                 {
@@ -266,10 +264,10 @@ namespace SQL_Connector
 
         private void UPDATE_Click(object sender, RoutedEventArgs e)
         {
-            string programmversion = Statics.Statics.ProgrammVersion;
+            string programmversion = Statics.ProgrammVersion;
             
-            int update = Update.Update.update(programmversion);
-            MessageBox.Show(Update.Update.updatemeldung(update));
+            int update = Update.update(programmversion);
+            MessageBox.Show(Update.updatemeldung(update));
            
         }
 
@@ -296,7 +294,7 @@ namespace SQL_Connector
             
             List<string> tables = new List<string>();
            
-            tables = Data.Verbindung.tableabfrage(IP, PORT, USER, PASSWORD,SCHEMABOX);
+            tables = Verbindung.tableabfrage(IP, PORT, USER, PASSWORD,SCHEMABOX);
             
             TABLEBOX.IsEnabled = true;
             TABLEBOX.Visibility = System.Windows.Visibility.Visible;

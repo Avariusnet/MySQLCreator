@@ -6,12 +6,10 @@ using System.Collections.Generic;
 using System.Net.NetworkInformation;
 using System.Net;
 using System.Threading.Tasks;
-using Logging;
 using SQL_Connector;
 using System.Windows.Controls;
 
-namespace Data
-{
+namespace SQLCreator {
 
     class Verbindung
     {
