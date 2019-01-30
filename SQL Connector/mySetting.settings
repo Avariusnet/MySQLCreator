@@ -32,5 +32,11 @@
     <Setting Name="PASSWORD" Type="System.String" Scope="User">
       <Value Profile="(Default)">root</Value>
     </Setting>
+    <Setting Name="Update_URL" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Update_File" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
   </Settings>
 </SettingsFile>

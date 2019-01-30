@@ -11,45 +11,20 @@ using System.Windows.Controls;
 
 namespace SQLCreator {
 
-    class Verbindung
-    {
+    class Verbindung {
 
         private string _port;
         private string _ip;
         private string _password;
         private string _user;
-        public string port
-        {
-            get { return _port; }
-            set { _port = value; }
-        }
 
-        public string ip
-        {
-            get { return _ip; }
-            set { _ip = value; }
-        }
-
-        public string password
-        {
-            get { return _password; }
-            set { _password = value; }
-        }
-
-        public string user
-        {
-            get { return _user; }
-            set { _user = value; }
-        }
+        public string Port { get => _port; set => _port = value; }
+        public string Ip { get => _ip; set => _ip = value; }
+        public string Password { get => _password; set => _password = value; }
+        public string User { get => _user; set => _user = value; }
 
 
-        public static bool test(Button box)
-        {
-            box.Content = "Ich wurde geklickt";
-            return true;
-        }
-
-        public static bool ping(string ip)
+        public static bool Ping(string ip)
         {
             try
             {
@@ -66,7 +41,7 @@ namespace SQLCreator {
                 {
                     var newip = hostEntry.AddressList[0];
                     Ping Pingsender = new Ping();
-                   // IPAddress adr = IPAddress.Parse(ip);
+                    // IPAddress adr = IPAddress.Parse(ip);
                     PingReply reply = Pingsender.Send(newip);
 
                     if (reply.Status == IPStatus.Success)
@@ -81,7 +56,7 @@ namespace SQLCreator {
                 }
 
                 return false;
-               
+
 
             }
 
@@ -109,9 +84,9 @@ namespace SQLCreator {
             return connStr;
         }
 
-        public static string CreateSpecificDBStr(string server, string port,string db, string user, string pass)
+        public static string CreateSpecificDBStr(string server, string port, string db, string user, string pass)
         {
-            string connStr = "server=" + server + ";port= " + port + ";database= " + db +";uid=" +
+            string connStr = "server=" + server + ";port= " + port + ";database= " + db + ";uid=" +
                 user + ";password=" + pass + ";";
 
 
@@ -136,12 +111,12 @@ namespace SQLCreator {
         /// <param name="user"></param>
         /// <param name="pass"></param>
         /// <returns></returns>
-        public static List<string> schemaabfrage(string ip, string port, string user, string pass)
+        public static List<string> SelectAllSchemas(string ip, string port, string user, string pass)
         {
             List<string> list = new List<string>();
             try
             {
-                
+
 
                 MySqlConnection con = new MySqlConnection(CreateDBStr(ip, port, user, pass));
                 MySqlCommand cmd = con.CreateCommand();
@@ -179,7 +154,7 @@ namespace SQLCreator {
         }
 
 
-        public static List<string> tableabfrage(TextBox IP, TextBox PORT, TextBox USER, PasswordBox PASSWORD,ComboBox SCHEMA)
+        public static List<string> SelectAllTables(TextBox IP, TextBox PORT, TextBox USER, PasswordBox PASSWORD, ComboBox SCHEMA)
         {
             List<string> list = new List<string>();
             try
@@ -191,7 +166,7 @@ namespace SQLCreator {
                 Object dbo = SCHEMA.SelectedItem;
                 string db = dbo.ToString();
 
-                MySqlConnection con = new MySqlConnection(CreateSpecificDBStr(ip, port,db, user, pass));
+                MySqlConnection con = new MySqlConnection(CreateSpecificDBStr(ip, port, db, user, pass));
                 MySqlCommand cmd = con.CreateCommand();
                 string query = "SHOW TABLES;";
                 cmd.CommandText = query;
@@ -225,7 +200,7 @@ namespace SQLCreator {
 
         }
 
-        public static bool testverbindung(string ip, string port, string user, string pass)
+        public static bool ConnectionTest(string ip, string port, string user, string pass)
         {
 
             Verbindung verbindung = new Verbindung();
@@ -244,7 +219,7 @@ namespace SQLCreator {
         }
 
 
-        public static void trennen(ComboBox SCHEMA, TextBlock SCHEMATEXT, Button Abfrage, Button VERBINDEN, Button DISCONNECT, TextBox PORT, TextBox USER,PasswordBox PASSWORD, TextBox QUERY)
+        public static void Disconnect(ComboBox SCHEMA, TextBlock SCHEMATEXT, Button Abfrage, Button VERBINDEN, Button DISCONNECT, TextBox PORT, TextBox USER, PasswordBox PASSWORD, TextBox QUERY)
         {
             VERBINDEN.IsEnabled = true;
             DISCONNECT.IsEnabled = false;
@@ -258,8 +233,8 @@ namespace SQLCreator {
             SCHEMATEXT.Visibility = System.Windows.Visibility.Hidden;
         }
 
-        public static void changevisibilty(ComboBox OPTIONBOX,ComboBox SCHEMABOX, ComboBox TABLEBOX, TextBox SEARCHPATTERN, ComboBox COLUMBOX , TextBlock OPTIONTEXT, TextBlock SCHEMATEXT, TextBlock SEARCHTEXT, TextBlock COLUMTEXT, TextBlock TABLETEXT )
-        { 
+        public static void ChangeVisibility(ComboBox OPTIONBOX, ComboBox SCHEMABOX, ComboBox TABLEBOX, TextBox SEARCHPATTERN, ComboBox COLUMBOX, TextBlock OPTIONTEXT, TextBlock SCHEMATEXT, TextBlock SEARCHTEXT, TextBlock COLUMTEXT, TextBlock TABLETEXT)
+        {
             OPTIONBOX.Visibility = System.Windows.Visibility.Hidden;
             SCHEMABOX.Visibility = System.Windows.Visibility.Hidden;
             TABLEBOX.Visibility = System.Windows.Visibility.Hidden;
@@ -272,9 +247,10 @@ namespace SQLCreator {
             COLUMTEXT.Visibility = System.Windows.Visibility.Hidden;
             TABLETEXT.Visibility = System.Windows.Visibility.Hidden;
         }
+
         public static List<string> GetColumValues(TextBox IP, TextBox PORT, ComboBox SCHEMA, TextBox USER, PasswordBox PASSWORD, ComboBox TABLES)
         {
-            
+
             List<string> list = new List<string>();
             string ip = IP.Text;
             string port = PORT.Text;
@@ -283,12 +259,12 @@ namespace SQLCreator {
             Object dbo = SCHEMA.SelectedItem;
             string db = dbo.ToString();
 
-            
+
 
             Verbindung verbindung = new Verbindung();
             MySqlConnection connection = new MySqlConnection(Verbindung.CreateQueryStr(ip, port, db, user, pass));
             MySqlCommand cmd = connection.CreateCommand();
-            string query = "Show columns from " + TABLES.SelectedItem.ToString() +" from " + SCHEMA.SelectedItem.ToString();
+            string query = "Show columns from " + TABLES.SelectedItem.ToString() + " from " + SCHEMA.SelectedItem.ToString();
             cmd.CommandText = query;
             MySqlDataReader rdr;
 
@@ -299,15 +275,15 @@ namespace SQLCreator {
 
                 while (rdr.Read())
                 {
-                    for(int i = 0; i <rdr.FieldCount; ++i)
+                    for (int i = 0; i < rdr.FieldCount; ++i)
                     {
-                        if(rdr.GetName(i).ToString() == "Field")
+                        if (rdr.GetName(i).ToString() == "Field")
                         {
                             list.Add(rdr.GetValue(i).ToString());
                         }
-                        
+
                     }
-                    
+
                 }
                 rdr.Close();
                 return list;
@@ -324,7 +300,7 @@ namespace SQLCreator {
         public static List<string> GetQueryValues(TextBox IP, TextBox PORT, ComboBox SCHEMABOX, TextBox USER, PasswordBox PASSWORD, TextBox QUERY)
         {
 
-            
+
             string ip = IP.Text;
             string port = PORT.Text;
             string user = USER.Text;
@@ -333,24 +309,26 @@ namespace SQLCreator {
             string query = QUERY.Text;
             string db = dbo.ToString();
 
-            List<string> stringpruefung = new List<string>();
-            stringpruefung.Add("name");
-            stringpruefung.Add("subname");
-            stringpruefung.Add("ScriptName");
-            stringpruefung.Add("AIName");
-            stringpruefung.Add("IconName");
-            stringpruefung.Add("MaleText");
-            stringpruefung.Add("FemaleText");
-            stringpruefung.Add("Name");
-            stringpruefung.Add("Subject");
-            stringpruefung.Add("comment");
+            List<string> stringpruefung = new List<string>
+            {
+                "name",
+                "subname",
+                "ScriptName",
+                "AIName",
+                "IconName",
+                "MaleText",
+                "FemaleText",
+                "Name",
+                "Subject",
+                "comment"
+            };
 
             int count = 0;
             string merge = "";
             string data = "";
             List<string> list = new List<string>();
-           
-            
+
+
             Verbindung verbindung = new Verbindung();
             MySqlConnection connection = new MySqlConnection(Verbindung.CreateQueryStr(ip, port, db, user, pass));
             MySqlCommand cmd = connection.CreateCommand();
@@ -380,15 +358,15 @@ namespace SQLCreator {
                         for (int o = 0; o < substrings.Length; ++o)
                         {
                             ++count;
-                            merge += substrings[o];               
+                            merge += substrings[o];
                         }
 
                         if (substrings.Length > 1)
                         {
                             merge = substrings[0] + "." + substrings[1];
                         }
-                        
-                      
+
+
                         //Wenn string splitcount = 2 data änderung
                         if (count == 2)
                         {
@@ -410,12 +388,12 @@ namespace SQLCreator {
                         //stringprüfung für felder mit string werten.
                         foreach (var element in stringpruefung)
                         {
-                            if (element == rdr.GetName(i).ToString() && i == rdr.FieldCount-1)
+                            if (element == rdr.GetName(i).ToString() && i == rdr.FieldCount - 1)
                             {
                                 data = "/*" + rdr.GetName(i).ToString() + ": */ \" " + rdr[i].ToString() + " \" \n";
                             }
 
-                            else if(element == rdr.GetName(i).ToString())
+                            else if (element == rdr.GetName(i).ToString())
                             {
                                 data = "/*" + rdr.GetName(i).ToString() + ": */ \" " + rdr[i].ToString() + " \", \n";
                             }
@@ -424,7 +402,7 @@ namespace SQLCreator {
                         //wenn feld einen leeren wert zurückgibt wird der hier ersetzt.
                         if (rdr[i].ToString() == "")
                         {
-                            if(i == rdr.FieldCount - 1)
+                            if (i == rdr.FieldCount - 1)
                             {
                                 lueckenfueller = "0";
                                 data = "/*" + rdr.GetName(i).ToString() + ": */ \" " + lueckenfueller + " \" \n";
@@ -455,9 +433,9 @@ namespace SQLCreator {
         }
 
 
-        public static List<string> Spaltennamen(TextBox IP, TextBox PORT, ComboBox SCHEMA, TextBox USER, PasswordBox PASSWORD, TextBox QUERY)
+        public static List<string> ColumnNames(TextBox IP, TextBox PORT, ComboBox SCHEMA, TextBox USER, PasswordBox PASSWORD, TextBox QUERY)
         {
-            
+
             string ip = IP.Text;
             string port = PORT.Text;
             string user = USER.Text;

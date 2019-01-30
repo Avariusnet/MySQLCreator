@@ -3,6 +3,7 @@ using System.Net;
 using System.IO;
 using System.Collections.Generic;
 using System.Windows.Controls;
+using SQLCreator;
 
 namespace SQLCreator {
     class Update
@@ -14,9 +15,9 @@ namespace SQLCreator {
             List<string> list = new List<string>();
             try
             {
-               
 
-                string source = "version.txt";
+
+                string source = "serion.txt";
                 string adress = "http://88.198.120.178/sqlconnector/version.txt";
                 
 

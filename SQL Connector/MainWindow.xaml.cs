@@ -47,7 +47,7 @@ namespace SQL_Connector
             string pass = PASSWORD.Password;
 
 
-            bool connect = Verbindung.testverbindung(ip, port, user, pass);
+            bool connect = Verbindung.ConnectionTest(ip, port, user, pass);
 
             if (connect)
             {
@@ -67,7 +67,7 @@ namespace SQL_Connector
                 SCHEMABOX.IsEnabled = true;
                 Abfrage.IsEnabled = true;
                 QUERY.IsEnabled = true;
-                schema = Verbindung.schemaabfrage(ip, port, user, pass);
+                schema = Verbindung.SelectAllSchemas(ip, port, user, pass);
 
 
                 
@@ -158,7 +158,7 @@ namespace SQL_Connector
                 if (IP.Text != "")
                 {
                     string ip = IP.Text;
-                    bool verbunden = Verbindung.ping(ip);
+                    bool verbunden = Verbindung.Ping(ip);
                     if (verbunden)
                     {
                         INFOBOX.AppendText("Verbindung erfolgreich geprüft. \n");
@@ -224,11 +224,11 @@ namespace SQL_Connector
             }
             
 
-            List<string> liste = Verbindung.Spaltennamen(IP, PORT, TABLEBOX, USER,PASSWORD,QUERY);
+            List<string> liste = Verbindung.ColumnNames(IP, PORT, TABLEBOX, USER,PASSWORD,QUERY);
                    
             try
             {
-                bool sucess = Export.exportsql(data, filename, TABLEBOX, liste, BEFEHLBOX);
+                bool sucess = Export.ExportSQL(data, filename, TABLEBOX, liste, BEFEHLBOX);
 
                 if (sucess)
                 {
@@ -262,7 +262,7 @@ namespace SQL_Connector
 
         }
 
-        private void UPDATE_Click(object sender, RoutedEventArgs e)
+        private void CheckForUpdates(object sender, RoutedEventArgs e)
         {
             string programmversion = Statics.ProgrammVersion;
             
@@ -277,15 +277,24 @@ namespace SQL_Connector
             COPYRIGHT.Text = mySetting.Default.Copyright;
             this.SizeToContent = SizeToContent.WidthAndHeight;
             loadsettings();
-            Verbindung.changevisibilty(OPTIONBOX,SCHEMABOX,TABLEBOX,SEARCHBOX,COLUMBOX,OPTIONTEXT,SCHEMATEXT,SEARCHTEXT,COLUMTEXT,TABLETEXT);
-            StreamReader sr = new StreamReader("version.txt");
-            string completestring = sr.ReadToEnd();
-            char trennzeichen = ',';
-            String[] substrings = completestring.Split(trennzeichen);
-            Console.WriteLine(substrings[0]);
-            Console.WriteLine(substrings[1]);
+            Verbindung.ChangeVisibility(OPTIONBOX,SCHEMABOX,TABLEBOX,SEARCHBOX,COLUMBOX,OPTIONTEXT,SCHEMATEXT,SEARCHTEXT,COLUMTEXT,TABLETEXT);
+            try
+            {
+                StreamReader sr = new StreamReader("version.txt");
+                string completestring = sr.ReadToEnd();
+                char trennzeichen = ',';
+                String[] substrings = completestring.Split(trennzeichen);
+                Console.WriteLine(substrings[0]);
+                Console.WriteLine(substrings[1]);
 
-            VERSION.Text = substrings[0] +  substrings[1];
+                VERSION.Text = substrings[0] + substrings[1];
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+          
+          
 
         }
         private void SCHEMA_SelectionChanged(object sender, SelectionChangedEventArgs e)
@@ -294,7 +303,7 @@ namespace SQL_Connector
             
             List<string> tables = new List<string>();
            
-            tables = Verbindung.tableabfrage(IP, PORT, USER, PASSWORD,SCHEMABOX);
+            tables = Verbindung.SelectAllTables(IP, PORT, USER, PASSWORD,SCHEMABOX);
             
             TABLEBOX.IsEnabled = true;
             TABLEBOX.Visibility = System.Windows.Visibility.Visible;
@@ -316,15 +325,11 @@ namespace SQL_Connector
             
         }
 
-        private void TEST_Click(object sender, RoutedEventArgs e)
+      
+        private void Disconnect(object sender, RoutedEventArgs e)
         {
-            Verbindung.test(TEST);
-        }
-
-        private void disconnect_click(object sender, RoutedEventArgs e)
-        {
-            Verbindung.trennen(SCHEMABOX, SCHEMATEXT, Abfrage, VERBINDEN, DISCONNECT, PORT, USER, PASSWORD,QUERY);
-            Verbindung.changevisibilty(OPTIONBOX, SCHEMABOX, TABLEBOX, SEARCHBOX, COLUMBOX, OPTIONTEXT, SCHEMATEXT, SEARCHTEXT, COLUMTEXT,TABLETEXT);
+            Verbindung.Disconnect(SCHEMABOX, SCHEMATEXT, Abfrage, VERBINDEN, DISCONNECT, PORT, USER, PASSWORD,QUERY);
+            Verbindung.ChangeVisibility(OPTIONBOX, SCHEMABOX, TABLEBOX, SEARCHBOX, COLUMBOX, OPTIONTEXT, SCHEMATEXT, SEARCHTEXT, COLUMTEXT,TABLETEXT);
         }
 
         private void TABLES_SelectionChanged(object sender, SelectionChangedEventArgs e)

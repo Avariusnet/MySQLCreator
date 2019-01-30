@@ -133,5 +133,29 @@ namespace SQL_Connector {
                 this["PASSWORD"] = value;
             }
         }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string Update_URL {
+            get {
+                return ((string)(this["Update_URL"]));
+            }
+            set {
+                this["Update_URL"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string Update_File {
+            get {
+                return ((string)(this["Update_File"]));
+            }
+            set {
+                this["Update_File"] = value;
+            }
+        }
     }
 }

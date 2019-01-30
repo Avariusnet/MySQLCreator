@@ -7,7 +7,12 @@
         mc:Ignorable="d"
         Title="Exitare's MySQL Creator" Height="720" Width="1280" ResizeMode="NoResize" >
     <Grid>
-      
+        <Menu  VerticalAlignment="Top">
+            <MenuItem Header="Settings">
+             
+                <MenuItem Name="UpdateMenu" Header="_Check for Update" Click="CheckForUpdates"/>
+            </MenuItem>
+        </Menu>
         <Button x:Name="Abfrage" Content="Fire!" HorizontalAlignment="Left" Margin="872,262,0,0" VerticalAlignment="Top" Width="75" Click="button_Click" IsEnabled="False" Visibility="Visible"/>
         <TextBox x:Name="IP" HorizontalAlignment="Left" Height="23" Margin="263,124,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="167" TabIndex="1" KeyDown="IP_KeyDown" ToolTip="After entering your IP press Enter" Text="127.0.0.1"/>
         <TextBox x:Name="PORT" HorizontalAlignment="Left" Height="23" Margin="491,126,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="167" TabIndex="2"  IsEnabled="False" Text="3306"/>
@@ -35,15 +40,11 @@
             <ComboBoxItem Content="INSERT" HorizontalAlignment="Left" Width="118"/>
             <ComboBoxItem Content="REPLACE" HorizontalAlignment="Left" Width="118"/>
         </ComboBox>
-        <Button x:Name="EINSTELLUNGEN" Content="Einstellungen" HorizontalAlignment="Left" Margin="16,540,0,-56" VerticalAlignment="Top" Width="75" Click="EINSTELLUNGEN_Click"/>
-        <Button x:Name="DONATE" Content="Donate" HorizontalAlignment="Left" Margin="16,511,0,0" VerticalAlignment="Top" Width="75"/>
-        <Button x:Name="UPDATE" Content="Update" HorizontalAlignment="Left" Margin="16,485,0,0" VerticalAlignment="Top" Width="75" Click="UPDATE_Click"/>
         <ComboBox x:Name="TABLEBOX" HorizontalAlignment="Left" Margin="263,207,0,0" VerticalAlignment="Top" Width="167" IsEnabled="False" SelectionChanged="TABLES_SelectionChanged"/>
         <TextBlock x:Name="OPTIONTEXT" HorizontalAlignment="Left" Margin="447,183,0,0" TextWrapping="Wrap" Text="Option:" VerticalAlignment="Top" RenderTransformOrigin="0.714,1"/>
         <TextBlock x:Name="TABLETEXT" HorizontalAlignment="Left" Margin="228,207,0,0" TextWrapping="Wrap" Text="Table:" VerticalAlignment="Top"/>
-        <Button x:Name="TEST" Content="Button" HorizontalAlignment="Left" Margin="56,325,0,0" VerticalAlignment="Top" Width="75" Click="TEST_Click"/>
         <TextBlock x:Name="VERSION" HorizontalAlignment="Left" Margin="10,633,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="46" Width="98"/>
-        <Button x:Name="DISCONNECT" Content="Disconnect" HorizontalAlignment="Left" Margin="665,127,0,0" VerticalAlignment="Top" Width="75" Click="disconnect_click" IsEnabled="False"/>
+        <Button x:Name="DISCONNECT" Content="Disconnect" HorizontalAlignment="Left" Margin="665,127,0,0" VerticalAlignment="Top" Width="75" Click="Disconnect" IsEnabled="False"/>
         <ComboBox x:Name="COLUMBOX" HorizontalAlignment="Left" Margin="491,210,0,0" VerticalAlignment="Top" Width="167" IsEnabled="False" SelectionChanged="COLUMBOX_SelectionChanged"/>
         <TextBlock x:Name="COLUMTEXT" HorizontalAlignment="Left" Margin="449,210,0,0" TextWrapping="Wrap" Text="Colum:" VerticalAlignment="Top"/>
         <TextBlock x:Name="SEARCHTEXT" HorizontalAlignment="Left" Margin="182,234,0,0" TextWrapping="Wrap" Text="SearchPattern:" VerticalAlignment="Top"/>
@@ -51,6 +52,7 @@
         <ComboBox x:Name="OPTIONBOX" HorizontalAlignment="Left" Margin="491,183,0,0" VerticalAlignment="Top" Width="167" SelectedIndex="0">
             <ComboBoxItem Content="Select" HorizontalAlignment="Left" Width="167" Margin="0,0,-2,0"/>
         </ComboBox>
+        <Menu HorizontalAlignment="Left" Height="100" Margin="1562,124,-388,0" VerticalAlignment="Top" Width="100"/>
 
     </Grid>
 </Window>

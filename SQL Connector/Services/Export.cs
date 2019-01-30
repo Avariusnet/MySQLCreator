@@ -9,7 +9,7 @@ namespace SQLCreator {
     class Export
     {
 
-        public static bool exportsql(string data, string filename, ComboBox SCHEMA, List<string> spaltennamen, ComboBox OPTION)
+        public static bool ExportSQL(string data, string filename, ComboBox SCHEMA, List<string> spaltennamen, ComboBox OPTION)
         {
             string beginstring = "";
             string headerstring = "";

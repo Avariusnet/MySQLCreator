@@ -906,3 +906,24 @@
 10.11.2017 14:34:43 Query wurde erfolgreich abgeschlossen. 
 16.01.2019 14:39:23 Verbindung konnte erfolgreich geprüft werden.
 16.01.2019 14:39:24 Can´t login to the SQL Database.
+29.01.2019 16:10:57 Verbindung konnte erfolgreich geprüft werden.
+29.01.2019 16:11:00 Can´t login to the SQL Database.
+29.01.2019 16:11:08 Can´t login to the SQL Database.
+29.01.2019 16:11:19 Downloaded all Schema Informations.
+29.01.2019 16:11:31 Update failed!
+29.01.2019 16:11:31 The remote server returned an error: (503) Server Unavailable.
+29.01.2019 16:11:35 Update failed!
+29.01.2019 16:11:35 The remote server returned an error: (503) Server Unavailable.
+29.01.2019 16:11:44 Tables wurden abgefragt.
+29.01.2019 16:11:51 Query wurde erfolgreich abgeschlossen. 
+29.01.2019 16:12:07 Unknown column 'Exitare' in 'where clause'
+29.01.2019 16:12:07 Unknown column 'Exitare' in 'where clause'
+29.01.2019 16:12:07 Query wurde erfolgreich abgeschlossen. 
+29.01.2019 17:26:40 Update failed!
+29.01.2019 17:26:40 The remote server returned an error: (503) Server Unavailable.
+29.01.2019 17:26:44 Verbindung konnte erfolgreich geprüft werden.
+29.01.2019 17:26:44 Verbindung konnte erfolgreich geprüft werden.
+29.01.2019 17:26:47 Can´t login to the SQL Database.
+29.01.2019 17:47:51 Verbindung konnte erfolgreich geprüft werden.
+29.01.2019 17:47:52 Can´t login to the SQL Database.
+29.01.2019 17:47:55 Can´t login to the SQL Database.
